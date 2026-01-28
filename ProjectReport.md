@@ -1197,41 +1197,61 @@ VehicleFilterPlugin ..> WooCommerceProduct : returns list
 ### 6.2 Use Case Diagram
 
 ```mermaid
-usecaseDiagram
-actor Customer as C
-actor Admin as A
-
-rectangle "Vehicle Filter Extension (WooCommerce)" {
-  (Select Make) as UC1
-  (Select Model) as UC2
-  (Select Listing) as UC3
-  (Select Year) as UC4
-  (Select Engine) as UC5
-  (Resolve vehicle_id) as UC6
-  (View compatible products) as UC7
-  (Open product details) as UC8
-  (Add to cart) as UC9
-
-  (Activate plugin) as UA1
-  (Import CSV data) as UA2
-  (Assign pa_vehicle_no terms) as UA3
-  (Monitor logs / debug) as UA4
-}
-
-C --> UC1
-C --> UC2
-C --> UC3
-C --> UC4
-C --> UC5
-UC5 ..> UC6 : <<include>>
-UC6 ..> UC7 : <<include>>
-C --> UC8
-C --> UC9
-
-A --> UA1
-UA1 ..> UA2 : <<include>>
-A --> UA3
-A --> UA4
+flowchart TB
+    subgraph Actors[" "]
+        C[👤 Customer]
+        A[👨‍💼 Administrator]
+    end
+    
+    subgraph CustomerUC["Customer Use Cases"]
+        UC1[Select Make]
+        UC2[Select Model]
+        UC3[Select Listing]
+        UC4[Select Year]
+        UC5[Select Engine]
+        UC6[Resolve vehicle_id]
+        UC7[View Compatible Products]
+        UC8[Open Product Details]
+        UC9[Add to Cart]
+    end
+    
+    subgraph AdminUC["Administrator Use Cases"]
+        UA1[Activate Plugin]
+        UA2[Import CSV Data]
+        UA3[Assign pa_vehicle_no Terms]
+        UA4[Monitor Logs / Debug]
+    end
+    
+    C --> UC1
+    C --> UC2
+    C --> UC3
+    C --> UC4
+    C --> UC5
+    UC5 --> UC6
+    UC6 --> UC7
+    C --> UC8
+    C --> UC9
+    
+    A --> UA1
+    UA1 --> UA2
+    A --> UA3
+    A --> UA4
+    
+    style C fill:#e1f5ff
+    style A fill:#fff4e1
+    style UC1 fill:#e8f5e9
+    style UC2 fill:#e8f5e9
+    style UC3 fill:#e8f5e9
+    style UC4 fill:#e8f5e9
+    style UC5 fill:#e8f5e9
+    style UC6 fill:#fff9c4
+    style UC7 fill:#e8f5e9
+    style UC8 fill:#e8f5e9
+    style UC9 fill:#e8f5e9
+    style UA1 fill:#f3e5f5
+    style UA2 fill:#f3e5f5
+    style UA3 fill:#f3e5f5
+    style UA4 fill:#f3e5f5
 ```
 
 **Actors:**
