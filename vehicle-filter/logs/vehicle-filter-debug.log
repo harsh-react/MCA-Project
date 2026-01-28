@@ -1,0 +1,3233 @@
+[2025-05-23 10:43:48] get_makes function called
+--------------------------------------------------------------------------------
+[2025-05-23 10:43:48] Getting makes from table: wp_vehicle_base
+--------------------------------------------------------------------------------
+[2025-05-23 10:43:48] Found makes:
+Data: Array
+(
+    [0] => Abarth
+    [1] => Acura
+    [2] => Alfa Romeo
+    [3] => Alpine
+    [4] => Audi
+    [5] => Austin
+    [6] => BMW
+    [7] => Buick
+    [8] => Cadillac
+    [9] => Chevrolet
+    [10] => Chrysler
+    [11] => Chrysler America
+    [12] => Citroen
+    [13] => Cupra
+    [14] => Dacia
+    [15] => Daewoo
+    [16] => Daihatsu
+    [17] => Daimler
+    [18] => Dodge
+    [19] => Ferrari
+    [20] => Fiat
+    [21] => Ford
+    [22] => Ford America
+    [23] => GMC
+    [24] => Honda
+    [25] => Honda MK X
+    [26] => Hyundai
+    [27] => Ineos
+    [28] => Innocenti
+    [29] => Isuzu
+    [30] => Iveco
+    [31] => Jaguar
+    [32] => Jeep
+    [33] => Jenson
+    [34] => Kia
+    [35] => Lada
+    [36] => Lancia
+    [37] => Land Rover
+    [38] => Lexus
+    [39] => Man
+    [40] => Mazda
+    [41] => Mercedes
+    [42] => Mercedes-Benz
+    [43] => Mercury
+    [44] => MG
+    [45] => Mini
+    [46] => Mitsubishi
+    [47] => Morgan
+    [48] => Morris
+    [49] => Nissan
+    [50] => Oldsmobile
+    [51] => Opel
+    [52] => Peugeot
+    [53] => Plymouth
+    [54] => Pontiac
+    [55] => Porsche
+    [56] => Ram Truck
+    [57] => Renault
+    [58] => Riley
+    [59] => Rover
+    [60] => Saab
+    [61] => Scion
+    [62] => Seat
+    [63] => Skoda
+    [64] => Ssang Yong
+    [65] => Subaru
+    [66] => Suzuki
+    [67] => Tesla
+    [68] => Toyota
+    [69] => Triumph
+    [70] => Vauxhall
+    [71] => Volkswagen
+    [72] => Volvo
+    [73] => Wolsley
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:43:48] get_makes function called
+--------------------------------------------------------------------------------
+[2025-05-23 10:43:48] Getting makes from table: wp_vehicle_base
+--------------------------------------------------------------------------------
+[2025-05-23 10:43:48] Found makes:
+Data: Array
+(
+    [0] => Abarth
+    [1] => Acura
+    [2] => Alfa Romeo
+    [3] => Alpine
+    [4] => Audi
+    [5] => Austin
+    [6] => BMW
+    [7] => Buick
+    [8] => Cadillac
+    [9] => Chevrolet
+    [10] => Chrysler
+    [11] => Chrysler America
+    [12] => Citroen
+    [13] => Cupra
+    [14] => Dacia
+    [15] => Daewoo
+    [16] => Daihatsu
+    [17] => Daimler
+    [18] => Dodge
+    [19] => Ferrari
+    [20] => Fiat
+    [21] => Ford
+    [22] => Ford America
+    [23] => GMC
+    [24] => Honda
+    [25] => Honda MK X
+    [26] => Hyundai
+    [27] => Ineos
+    [28] => Innocenti
+    [29] => Isuzu
+    [30] => Iveco
+    [31] => Jaguar
+    [32] => Jeep
+    [33] => Jenson
+    [34] => Kia
+    [35] => Lada
+    [36] => Lancia
+    [37] => Land Rover
+    [38] => Lexus
+    [39] => Man
+    [40] => Mazda
+    [41] => Mercedes
+    [42] => Mercedes-Benz
+    [43] => Mercury
+    [44] => MG
+    [45] => Mini
+    [46] => Mitsubishi
+    [47] => Morgan
+    [48] => Morris
+    [49] => Nissan
+    [50] => Oldsmobile
+    [51] => Opel
+    [52] => Peugeot
+    [53] => Plymouth
+    [54] => Pontiac
+    [55] => Porsche
+    [56] => Ram Truck
+    [57] => Renault
+    [58] => Riley
+    [59] => Rover
+    [60] => Saab
+    [61] => Scion
+    [62] => Seat
+    [63] => Skoda
+    [64] => Ssang Yong
+    [65] => Subaru
+    [66] => Suzuki
+    [67] => Tesla
+    [68] => Toyota
+    [69] => Triumph
+    [70] => Vauxhall
+    [71] => Volkswagen
+    [72] => Volvo
+    [73] => Wolsley
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:43:50] Getting models for make: Audi
+--------------------------------------------------------------------------------
+[2025-05-23 10:43:50] Found models:
+Data: Array
+(
+    [0] => 100
+    [1] => 200
+    [2] => 80
+    [3] => A1
+    [4] => A1 City Carver
+    [5] => A2
+    [6] => A3
+    [7] => A3 E-Tron
+    [8] => A3 G-Tron
+    [9] => A4
+    [10] => A5
+    [11] => A6
+    [12] => A7
+    [13] => Coupé
+    [14] => Q2
+    [15] => Q3
+    [16] => Q5
+    [17] => RS2
+    [18] => RS3
+    [19] => S2
+    [20] => S3
+    [21] => S4
+    [22] => S5
+    [23] => S6
+    [24] => TT
+    [25] => UR Quattro
+    [26] => V8
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:43:50] Getting models for make: Audi
+--------------------------------------------------------------------------------
+[2025-05-23 10:43:50] Found models:
+Data: Array
+(
+    [0] => 100
+    [1] => 200
+    [2] => 80
+    [3] => A1
+    [4] => A1 City Carver
+    [5] => A2
+    [6] => A3
+    [7] => A3 E-Tron
+    [8] => A3 G-Tron
+    [9] => A4
+    [10] => A5
+    [11] => A6
+    [12] => A7
+    [13] => Coupé
+    [14] => Q2
+    [15] => Q3
+    [16] => Q5
+    [17] => RS2
+    [18] => RS3
+    [19] => S2
+    [20] => S3
+    [21] => S4
+    [22] => S5
+    [23] => S6
+    [24] => TT
+    [25] => UR Quattro
+    [26] => V8
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:43:53] Getting listings for make: Audi, model: A3
+--------------------------------------------------------------------------------
+[2025-05-23 10:43:53] Found listings:
+Data: Array
+(
+    [0] => A3 (8L) Hatchback
+    [1] => A3 (8L) Hatchback  1996 > 2003
+    [2] => A3 (8L) Hatchback  Quattro
+    [3] => A3 (8L) Hatchback  Quattro 1999 > 2003
+    [4] => A3 (8P) Cabriolet
+    [5] => A3 (8P) Cabriolet  2003 > 2012
+    [6] => A3 (8P) Hatchback
+    [7] => A3 (8P) Hatchback  2003 > 2012
+    [8] => A3 (8P) Hatchback  Quattro
+    [9] => A3 (8P) Hatchback  Quattro 2003 > 2012
+    [10] => A3 (8P) Sportback
+    [11] => A3 (8P) Sportback  2003 > 2012
+    [12] => A3 (8P) Sportback  Quattro
+    [13] => A3 (8P) Sportback  Quattro 2003 > 2012
+    [14] => A3 (8V) Cabriolet
+    [15] => A3 (8V) Cabriolet  2014 > 2019
+    [16] => A3 (8V) Cabriolet  Quattro
+    [17] => A3 (8V) Cabriolet  Quattro 2014 > 2019
+    [18] => A3 (8V) Hatchback
+    [19] => A3 (8V) Hatchback  2012 > 2019
+    [20] => A3 (8V) Hatchback  Quattro
+    [21] => A3 (8V) Hatchback  Quattro 2012 > 2019
+    [22] => A3 (8V) Saloon
+    [23] => A3 (8V) Saloon  2012 > 2019
+    [24] => A3 (8V) Saloon  Quattro
+    [25] => A3 (8V) Saloon  Quattro 2012 > 2019
+    [26] => A3 (8V) Sportback
+    [27] => A3 (8V) Sportback  2012 > 2019
+    [28] => A3 (8V) Sportback  Quattro
+    [29] => A3 (8V) Sportback  Quattro 2012 > 2019
+    [30] => A3 (8Y) Hatchback
+    [31] => A3 (8Y) Hatchback  2020 >
+    [32] => A3 (8Y) Hatchback  Quattro
+    [33] => A3 (8Y) Hatchback  Quattro 2020 >
+    [34] => A3 (8Y) Saloon
+    [35] => A3 (8Y) Saloon  2020 >
+    [36] => A3 (8Y) Saloon  Quattro
+    [37] => A3 (8Y) Saloon  Quattro 2020 >
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:43:58] Getting years for make: Audi, model: A3, listing: A3 (8Y) Saloon  2020 >
+--------------------------------------------------------------------------------
+[2025-05-23 10:43:58] Found year ranges:
+Data: Array
+(
+    [0] => stdClass Object
+        (
+            [year_from] => 2020
+            [year_to] => 0
+        )
+
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:43:58] Generated years array:
+Data: Array
+(
+    [0] => 2020
+    [1] => 2021
+    [2] => 2022
+    [3] => 2023
+    [4] => 2024
+    [5] => 2025
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:44:01] Getting engines for:
+Data: Array
+(
+    [make] => Audi
+    [model] => A3
+    [listing] => A3 (8Y) Saloon  2020 >
+    [year] => 2021
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:44:01] Vehicle ID query:
+Data: SELECT vehicle_id FROM wp_vehicle_base WHERE make = 'Audi' AND model = 'A3' AND listing = 'A3 (8Y) Saloon  2020 >' AND year_from <= 2021 AND year_to >= 2021
+--------------------------------------------------------------------------------
+[2025-05-23 10:44:01] Found vehicle_ids:
+Data: Array
+(
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:44:01] No vehicle IDs found
+--------------------------------------------------------------------------------
+[2025-05-23 10:45:19] get_makes function called
+--------------------------------------------------------------------------------
+[2025-05-23 10:45:19] Getting makes from table: wp_vehicle_base
+--------------------------------------------------------------------------------
+[2025-05-23 10:45:19] Found makes:
+Data: Array
+(
+    [0] => Abarth
+    [1] => Acura
+    [2] => Alfa Romeo
+    [3] => Alpine
+    [4] => Audi
+    [5] => Austin
+    [6] => BMW
+    [7] => Buick
+    [8] => Cadillac
+    [9] => Chevrolet
+    [10] => Chrysler
+    [11] => Chrysler America
+    [12] => Citroen
+    [13] => Cupra
+    [14] => Dacia
+    [15] => Daewoo
+    [16] => Daihatsu
+    [17] => Daimler
+    [18] => Dodge
+    [19] => Ferrari
+    [20] => Fiat
+    [21] => Ford
+    [22] => Ford America
+    [23] => GMC
+    [24] => Honda
+    [25] => Honda MK X
+    [26] => Hyundai
+    [27] => Ineos
+    [28] => Innocenti
+    [29] => Isuzu
+    [30] => Iveco
+    [31] => Jaguar
+    [32] => Jeep
+    [33] => Jenson
+    [34] => Kia
+    [35] => Lada
+    [36] => Lancia
+    [37] => Land Rover
+    [38] => Lexus
+    [39] => Man
+    [40] => Mazda
+    [41] => Mercedes
+    [42] => Mercedes-Benz
+    [43] => Mercury
+    [44] => MG
+    [45] => Mini
+    [46] => Mitsubishi
+    [47] => Morgan
+    [48] => Morris
+    [49] => Nissan
+    [50] => Oldsmobile
+    [51] => Opel
+    [52] => Peugeot
+    [53] => Plymouth
+    [54] => Pontiac
+    [55] => Porsche
+    [56] => Ram Truck
+    [57] => Renault
+    [58] => Riley
+    [59] => Rover
+    [60] => Saab
+    [61] => Scion
+    [62] => Seat
+    [63] => Skoda
+    [64] => Ssang Yong
+    [65] => Subaru
+    [66] => Suzuki
+    [67] => Tesla
+    [68] => Toyota
+    [69] => Triumph
+    [70] => Vauxhall
+    [71] => Volkswagen
+    [72] => Volvo
+    [73] => Wolsley
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:45:19] get_makes function called
+--------------------------------------------------------------------------------
+[2025-05-23 10:45:19] Getting makes from table: wp_vehicle_base
+--------------------------------------------------------------------------------
+[2025-05-23 10:45:19] Found makes:
+Data: Array
+(
+    [0] => Abarth
+    [1] => Acura
+    [2] => Alfa Romeo
+    [3] => Alpine
+    [4] => Audi
+    [5] => Austin
+    [6] => BMW
+    [7] => Buick
+    [8] => Cadillac
+    [9] => Chevrolet
+    [10] => Chrysler
+    [11] => Chrysler America
+    [12] => Citroen
+    [13] => Cupra
+    [14] => Dacia
+    [15] => Daewoo
+    [16] => Daihatsu
+    [17] => Daimler
+    [18] => Dodge
+    [19] => Ferrari
+    [20] => Fiat
+    [21] => Ford
+    [22] => Ford America
+    [23] => GMC
+    [24] => Honda
+    [25] => Honda MK X
+    [26] => Hyundai
+    [27] => Ineos
+    [28] => Innocenti
+    [29] => Isuzu
+    [30] => Iveco
+    [31] => Jaguar
+    [32] => Jeep
+    [33] => Jenson
+    [34] => Kia
+    [35] => Lada
+    [36] => Lancia
+    [37] => Land Rover
+    [38] => Lexus
+    [39] => Man
+    [40] => Mazda
+    [41] => Mercedes
+    [42] => Mercedes-Benz
+    [43] => Mercury
+    [44] => MG
+    [45] => Mini
+    [46] => Mitsubishi
+    [47] => Morgan
+    [48] => Morris
+    [49] => Nissan
+    [50] => Oldsmobile
+    [51] => Opel
+    [52] => Peugeot
+    [53] => Plymouth
+    [54] => Pontiac
+    [55] => Porsche
+    [56] => Ram Truck
+    [57] => Renault
+    [58] => Riley
+    [59] => Rover
+    [60] => Saab
+    [61] => Scion
+    [62] => Seat
+    [63] => Skoda
+    [64] => Ssang Yong
+    [65] => Subaru
+    [66] => Suzuki
+    [67] => Tesla
+    [68] => Toyota
+    [69] => Triumph
+    [70] => Vauxhall
+    [71] => Volkswagen
+    [72] => Volvo
+    [73] => Wolsley
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:45:22] Getting models for make: Audi
+--------------------------------------------------------------------------------
+[2025-05-23 10:45:22] Found models:
+Data: Array
+(
+    [0] => 100
+    [1] => 200
+    [2] => 80
+    [3] => A1
+    [4] => A1 City Carver
+    [5] => A2
+    [6] => A3
+    [7] => A3 E-Tron
+    [8] => A3 G-Tron
+    [9] => A4
+    [10] => A5
+    [11] => A6
+    [12] => A7
+    [13] => Coupé
+    [14] => Q2
+    [15] => Q3
+    [16] => Q5
+    [17] => RS2
+    [18] => RS3
+    [19] => S2
+    [20] => S3
+    [21] => S4
+    [22] => S5
+    [23] => S6
+    [24] => TT
+    [25] => UR Quattro
+    [26] => V8
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:45:22] Getting models for make: Audi
+--------------------------------------------------------------------------------
+[2025-05-23 10:45:22] Found models:
+Data: Array
+(
+    [0] => 100
+    [1] => 200
+    [2] => 80
+    [3] => A1
+    [4] => A1 City Carver
+    [5] => A2
+    [6] => A3
+    [7] => A3 E-Tron
+    [8] => A3 G-Tron
+    [9] => A4
+    [10] => A5
+    [11] => A6
+    [12] => A7
+    [13] => Coupé
+    [14] => Q2
+    [15] => Q3
+    [16] => Q5
+    [17] => RS2
+    [18] => RS3
+    [19] => S2
+    [20] => S3
+    [21] => S4
+    [22] => S5
+    [23] => S6
+    [24] => TT
+    [25] => UR Quattro
+    [26] => V8
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:45:25] Getting listings for make: Audi, model: A3
+--------------------------------------------------------------------------------
+[2025-05-23 10:45:25] Found listings:
+Data: Array
+(
+    [0] => A3 (8L) Hatchback
+    [1] => A3 (8L) Hatchback  1996 > 2003
+    [2] => A3 (8L) Hatchback  Quattro
+    [3] => A3 (8L) Hatchback  Quattro 1999 > 2003
+    [4] => A3 (8P) Cabriolet
+    [5] => A3 (8P) Cabriolet  2003 > 2012
+    [6] => A3 (8P) Hatchback
+    [7] => A3 (8P) Hatchback  2003 > 2012
+    [8] => A3 (8P) Hatchback  Quattro
+    [9] => A3 (8P) Hatchback  Quattro 2003 > 2012
+    [10] => A3 (8P) Sportback
+    [11] => A3 (8P) Sportback  2003 > 2012
+    [12] => A3 (8P) Sportback  Quattro
+    [13] => A3 (8P) Sportback  Quattro 2003 > 2012
+    [14] => A3 (8V) Cabriolet
+    [15] => A3 (8V) Cabriolet  2014 > 2019
+    [16] => A3 (8V) Cabriolet  Quattro
+    [17] => A3 (8V) Cabriolet  Quattro 2014 > 2019
+    [18] => A3 (8V) Hatchback
+    [19] => A3 (8V) Hatchback  2012 > 2019
+    [20] => A3 (8V) Hatchback  Quattro
+    [21] => A3 (8V) Hatchback  Quattro 2012 > 2019
+    [22] => A3 (8V) Saloon
+    [23] => A3 (8V) Saloon  2012 > 2019
+    [24] => A3 (8V) Saloon  Quattro
+    [25] => A3 (8V) Saloon  Quattro 2012 > 2019
+    [26] => A3 (8V) Sportback
+    [27] => A3 (8V) Sportback  2012 > 2019
+    [28] => A3 (8V) Sportback  Quattro
+    [29] => A3 (8V) Sportback  Quattro 2012 > 2019
+    [30] => A3 (8Y) Hatchback
+    [31] => A3 (8Y) Hatchback  2020 >
+    [32] => A3 (8Y) Hatchback  Quattro
+    [33] => A3 (8Y) Hatchback  Quattro 2020 >
+    [34] => A3 (8Y) Saloon
+    [35] => A3 (8Y) Saloon  2020 >
+    [36] => A3 (8Y) Saloon  Quattro
+    [37] => A3 (8Y) Saloon  Quattro 2020 >
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:45:33] Getting years for make: Audi, model: A3, listing: A3 (8Y) Saloon  2020 >
+--------------------------------------------------------------------------------
+[2025-05-23 10:45:33] Found year ranges:
+Data: Array
+(
+    [0] => stdClass Object
+        (
+            [year_from] => 2020
+            [year_to] => 0
+        )
+
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:45:33] Generated years array:
+Data: Array
+(
+    [0] => 2020
+    [1] => 2021
+    [2] => 2022
+    [3] => 2023
+    [4] => 2024
+    [5] => 2025
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:45:35] Getting engines for:
+Data: Array
+(
+    [make] => Audi
+    [model] => A3
+    [listing] => A3 (8Y) Saloon  2020 >
+    [year] => 2023
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:45:35] Vehicle ID query:
+Data: SELECT vehicle_id FROM wp_vehicle_base WHERE make = 'Audi' AND model = 'A3' AND listing = 'A3 (8Y) Saloon  2020 >' AND year_from <= 2023 AND year_to >= 2023
+--------------------------------------------------------------------------------
+[2025-05-23 10:45:35] Found vehicle_ids:
+Data: Array
+(
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:45:35] No vehicle IDs found
+--------------------------------------------------------------------------------
+[2025-05-23 10:45:38] get_makes function called
+--------------------------------------------------------------------------------
+[2025-05-23 10:45:38] Getting makes from table: wp_vehicle_base
+--------------------------------------------------------------------------------
+[2025-05-23 10:45:38] Found makes:
+Data: Array
+(
+    [0] => Abarth
+    [1] => Acura
+    [2] => Alfa Romeo
+    [3] => Alpine
+    [4] => Audi
+    [5] => Austin
+    [6] => BMW
+    [7] => Buick
+    [8] => Cadillac
+    [9] => Chevrolet
+    [10] => Chrysler
+    [11] => Chrysler America
+    [12] => Citroen
+    [13] => Cupra
+    [14] => Dacia
+    [15] => Daewoo
+    [16] => Daihatsu
+    [17] => Daimler
+    [18] => Dodge
+    [19] => Ferrari
+    [20] => Fiat
+    [21] => Ford
+    [22] => Ford America
+    [23] => GMC
+    [24] => Honda
+    [25] => Honda MK X
+    [26] => Hyundai
+    [27] => Ineos
+    [28] => Innocenti
+    [29] => Isuzu
+    [30] => Iveco
+    [31] => Jaguar
+    [32] => Jeep
+    [33] => Jenson
+    [34] => Kia
+    [35] => Lada
+    [36] => Lancia
+    [37] => Land Rover
+    [38] => Lexus
+    [39] => Man
+    [40] => Mazda
+    [41] => Mercedes
+    [42] => Mercedes-Benz
+    [43] => Mercury
+    [44] => MG
+    [45] => Mini
+    [46] => Mitsubishi
+    [47] => Morgan
+    [48] => Morris
+    [49] => Nissan
+    [50] => Oldsmobile
+    [51] => Opel
+    [52] => Peugeot
+    [53] => Plymouth
+    [54] => Pontiac
+    [55] => Porsche
+    [56] => Ram Truck
+    [57] => Renault
+    [58] => Riley
+    [59] => Rover
+    [60] => Saab
+    [61] => Scion
+    [62] => Seat
+    [63] => Skoda
+    [64] => Ssang Yong
+    [65] => Subaru
+    [66] => Suzuki
+    [67] => Tesla
+    [68] => Toyota
+    [69] => Triumph
+    [70] => Vauxhall
+    [71] => Volkswagen
+    [72] => Volvo
+    [73] => Wolsley
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:45:38] get_makes function called
+--------------------------------------------------------------------------------
+[2025-05-23 10:45:38] Getting makes from table: wp_vehicle_base
+--------------------------------------------------------------------------------
+[2025-05-23 10:45:38] Found makes:
+Data: Array
+(
+    [0] => Abarth
+    [1] => Acura
+    [2] => Alfa Romeo
+    [3] => Alpine
+    [4] => Audi
+    [5] => Austin
+    [6] => BMW
+    [7] => Buick
+    [8] => Cadillac
+    [9] => Chevrolet
+    [10] => Chrysler
+    [11] => Chrysler America
+    [12] => Citroen
+    [13] => Cupra
+    [14] => Dacia
+    [15] => Daewoo
+    [16] => Daihatsu
+    [17] => Daimler
+    [18] => Dodge
+    [19] => Ferrari
+    [20] => Fiat
+    [21] => Ford
+    [22] => Ford America
+    [23] => GMC
+    [24] => Honda
+    [25] => Honda MK X
+    [26] => Hyundai
+    [27] => Ineos
+    [28] => Innocenti
+    [29] => Isuzu
+    [30] => Iveco
+    [31] => Jaguar
+    [32] => Jeep
+    [33] => Jenson
+    [34] => Kia
+    [35] => Lada
+    [36] => Lancia
+    [37] => Land Rover
+    [38] => Lexus
+    [39] => Man
+    [40] => Mazda
+    [41] => Mercedes
+    [42] => Mercedes-Benz
+    [43] => Mercury
+    [44] => MG
+    [45] => Mini
+    [46] => Mitsubishi
+    [47] => Morgan
+    [48] => Morris
+    [49] => Nissan
+    [50] => Oldsmobile
+    [51] => Opel
+    [52] => Peugeot
+    [53] => Plymouth
+    [54] => Pontiac
+    [55] => Porsche
+    [56] => Ram Truck
+    [57] => Renault
+    [58] => Riley
+    [59] => Rover
+    [60] => Saab
+    [61] => Scion
+    [62] => Seat
+    [63] => Skoda
+    [64] => Ssang Yong
+    [65] => Subaru
+    [66] => Suzuki
+    [67] => Tesla
+    [68] => Toyota
+    [69] => Triumph
+    [70] => Vauxhall
+    [71] => Volkswagen
+    [72] => Volvo
+    [73] => Wolsley
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:47:15] get_makes function called
+--------------------------------------------------------------------------------
+[2025-05-23 10:47:15] Getting makes from table: wp_vehicle_base
+--------------------------------------------------------------------------------
+[2025-05-23 10:47:15] Found makes:
+Data: Array
+(
+    [0] => Abarth
+    [1] => Acura
+    [2] => Alfa Romeo
+    [3] => Alpine
+    [4] => Audi
+    [5] => Austin
+    [6] => BMW
+    [7] => Buick
+    [8] => Cadillac
+    [9] => Chevrolet
+    [10] => Chrysler
+    [11] => Chrysler America
+    [12] => Citroen
+    [13] => Cupra
+    [14] => Dacia
+    [15] => Daewoo
+    [16] => Daihatsu
+    [17] => Daimler
+    [18] => Dodge
+    [19] => Ferrari
+    [20] => Fiat
+    [21] => Ford
+    [22] => Ford America
+    [23] => GMC
+    [24] => Honda
+    [25] => Honda MK X
+    [26] => Hyundai
+    [27] => Ineos
+    [28] => Innocenti
+    [29] => Isuzu
+    [30] => Iveco
+    [31] => Jaguar
+    [32] => Jeep
+    [33] => Jenson
+    [34] => Kia
+    [35] => Lada
+    [36] => Lancia
+    [37] => Land Rover
+    [38] => Lexus
+    [39] => Man
+    [40] => Mazda
+    [41] => Mercedes
+    [42] => Mercedes-Benz
+    [43] => Mercury
+    [44] => MG
+    [45] => Mini
+    [46] => Mitsubishi
+    [47] => Morgan
+    [48] => Morris
+    [49] => Nissan
+    [50] => Oldsmobile
+    [51] => Opel
+    [52] => Peugeot
+    [53] => Plymouth
+    [54] => Pontiac
+    [55] => Porsche
+    [56] => Ram Truck
+    [57] => Renault
+    [58] => Riley
+    [59] => Rover
+    [60] => Saab
+    [61] => Scion
+    [62] => Seat
+    [63] => Skoda
+    [64] => Ssang Yong
+    [65] => Subaru
+    [66] => Suzuki
+    [67] => Tesla
+    [68] => Toyota
+    [69] => Triumph
+    [70] => Vauxhall
+    [71] => Volkswagen
+    [72] => Volvo
+    [73] => Wolsley
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:47:15] get_makes function called
+--------------------------------------------------------------------------------
+[2025-05-23 10:47:15] Getting makes from table: wp_vehicle_base
+--------------------------------------------------------------------------------
+[2025-05-23 10:47:15] Found makes:
+Data: Array
+(
+    [0] => Abarth
+    [1] => Acura
+    [2] => Alfa Romeo
+    [3] => Alpine
+    [4] => Audi
+    [5] => Austin
+    [6] => BMW
+    [7] => Buick
+    [8] => Cadillac
+    [9] => Chevrolet
+    [10] => Chrysler
+    [11] => Chrysler America
+    [12] => Citroen
+    [13] => Cupra
+    [14] => Dacia
+    [15] => Daewoo
+    [16] => Daihatsu
+    [17] => Daimler
+    [18] => Dodge
+    [19] => Ferrari
+    [20] => Fiat
+    [21] => Ford
+    [22] => Ford America
+    [23] => GMC
+    [24] => Honda
+    [25] => Honda MK X
+    [26] => Hyundai
+    [27] => Ineos
+    [28] => Innocenti
+    [29] => Isuzu
+    [30] => Iveco
+    [31] => Jaguar
+    [32] => Jeep
+    [33] => Jenson
+    [34] => Kia
+    [35] => Lada
+    [36] => Lancia
+    [37] => Land Rover
+    [38] => Lexus
+    [39] => Man
+    [40] => Mazda
+    [41] => Mercedes
+    [42] => Mercedes-Benz
+    [43] => Mercury
+    [44] => MG
+    [45] => Mini
+    [46] => Mitsubishi
+    [47] => Morgan
+    [48] => Morris
+    [49] => Nissan
+    [50] => Oldsmobile
+    [51] => Opel
+    [52] => Peugeot
+    [53] => Plymouth
+    [54] => Pontiac
+    [55] => Porsche
+    [56] => Ram Truck
+    [57] => Renault
+    [58] => Riley
+    [59] => Rover
+    [60] => Saab
+    [61] => Scion
+    [62] => Seat
+    [63] => Skoda
+    [64] => Ssang Yong
+    [65] => Subaru
+    [66] => Suzuki
+    [67] => Tesla
+    [68] => Toyota
+    [69] => Triumph
+    [70] => Vauxhall
+    [71] => Volkswagen
+    [72] => Volvo
+    [73] => Wolsley
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:47:18] Getting models for make: Cadillac
+--------------------------------------------------------------------------------
+[2025-05-23 10:47:18] Getting models for make: Cadillac
+--------------------------------------------------------------------------------
+[2025-05-23 10:47:18] Found models:
+Data: Array
+(
+    [0] => BLS
+    [1] => Calais
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:47:18] Found models:
+Data: Array
+(
+    [0] => BLS
+    [1] => Calais
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:47:19] Getting listings for make: Cadillac, model: Calais
+--------------------------------------------------------------------------------
+[2025-05-23 10:47:19] Found listings:
+Data: Array
+(
+    [0] => Calais  Saloon
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:47:20] Getting years for make: Cadillac, model: Calais, listing: Calais  Saloon
+--------------------------------------------------------------------------------
+[2025-05-23 10:47:20] Found year ranges:
+Data: Array
+(
+    [0] => stdClass Object
+        (
+            [year_from] => 1977
+            [year_to] => 1984
+        )
+
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:47:20] Generated years array:
+Data: Array
+(
+    [0] => 1977
+    [1] => 1978
+    [2] => 1979
+    [3] => 1980
+    [4] => 1981
+    [5] => 1982
+    [6] => 1983
+    [7] => 1984
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:47:22] Getting engines for:
+Data: Array
+(
+    [make] => Cadillac
+    [model] => Calais
+    [listing] => Calais  Saloon
+    [year] => 1981
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:47:22] Vehicle ID query:
+Data: SELECT vehicle_id FROM wp_vehicle_base WHERE make = 'Cadillac' AND model = 'Calais' AND listing = 'Calais  Saloon' AND year_from <= 1981 AND year_to >= 1981
+--------------------------------------------------------------------------------
+[2025-05-23 10:47:22] Found vehicle_ids:
+Data: Array
+(
+    [0] => 1190
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:47:22] Engine ID query:
+Data: SELECT DISTINCT engine_id FROM wp_vehicle_engine WHERE vehicle_id IN (1190)
+--------------------------------------------------------------------------------
+[2025-05-23 10:47:22] Found engine_ids:
+Data: Array
+(
+    [0] => 472
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:47:22] Engine code query:
+Data: SELECT engine_code FROM wp_engine WHERE engine_id IN (472)
+--------------------------------------------------------------------------------
+[2025-05-23 10:47:22] Found engine codes:
+Data: Array
+(
+    [0] => All
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:47:24] Getting models for make: Audi
+--------------------------------------------------------------------------------
+[2025-05-23 10:47:24] Getting models for make: Audi
+--------------------------------------------------------------------------------
+[2025-05-23 10:47:24] Found models:
+Data: Array
+(
+    [0] => 100
+    [1] => 200
+    [2] => 80
+    [3] => A1
+    [4] => A1 City Carver
+    [5] => A2
+    [6] => A3
+    [7] => A3 E-Tron
+    [8] => A3 G-Tron
+    [9] => A4
+    [10] => A5
+    [11] => A6
+    [12] => A7
+    [13] => Coupé
+    [14] => Q2
+    [15] => Q3
+    [16] => Q5
+    [17] => RS2
+    [18] => RS3
+    [19] => S2
+    [20] => S3
+    [21] => S4
+    [22] => S5
+    [23] => S6
+    [24] => TT
+    [25] => UR Quattro
+    [26] => V8
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:47:24] Found models:
+Data: Array
+(
+    [0] => 100
+    [1] => 200
+    [2] => 80
+    [3] => A1
+    [4] => A1 City Carver
+    [5] => A2
+    [6] => A3
+    [7] => A3 E-Tron
+    [8] => A3 G-Tron
+    [9] => A4
+    [10] => A5
+    [11] => A6
+    [12] => A7
+    [13] => Coupé
+    [14] => Q2
+    [15] => Q3
+    [16] => Q5
+    [17] => RS2
+    [18] => RS3
+    [19] => S2
+    [20] => S3
+    [21] => S4
+    [22] => S5
+    [23] => S6
+    [24] => TT
+    [25] => UR Quattro
+    [26] => V8
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:47:27] Getting listings for make: Audi, model: A3
+--------------------------------------------------------------------------------
+[2025-05-23 10:47:27] Found listings:
+Data: Array
+(
+    [0] => A3 (8L) Hatchback
+    [1] => A3 (8L) Hatchback  1996 > 2003
+    [2] => A3 (8L) Hatchback  Quattro
+    [3] => A3 (8L) Hatchback  Quattro 1999 > 2003
+    [4] => A3 (8P) Cabriolet
+    [5] => A3 (8P) Cabriolet  2003 > 2012
+    [6] => A3 (8P) Hatchback
+    [7] => A3 (8P) Hatchback  2003 > 2012
+    [8] => A3 (8P) Hatchback  Quattro
+    [9] => A3 (8P) Hatchback  Quattro 2003 > 2012
+    [10] => A3 (8P) Sportback
+    [11] => A3 (8P) Sportback  2003 > 2012
+    [12] => A3 (8P) Sportback  Quattro
+    [13] => A3 (8P) Sportback  Quattro 2003 > 2012
+    [14] => A3 (8V) Cabriolet
+    [15] => A3 (8V) Cabriolet  2014 > 2019
+    [16] => A3 (8V) Cabriolet  Quattro
+    [17] => A3 (8V) Cabriolet  Quattro 2014 > 2019
+    [18] => A3 (8V) Hatchback
+    [19] => A3 (8V) Hatchback  2012 > 2019
+    [20] => A3 (8V) Hatchback  Quattro
+    [21] => A3 (8V) Hatchback  Quattro 2012 > 2019
+    [22] => A3 (8V) Saloon
+    [23] => A3 (8V) Saloon  2012 > 2019
+    [24] => A3 (8V) Saloon  Quattro
+    [25] => A3 (8V) Saloon  Quattro 2012 > 2019
+    [26] => A3 (8V) Sportback
+    [27] => A3 (8V) Sportback  2012 > 2019
+    [28] => A3 (8V) Sportback  Quattro
+    [29] => A3 (8V) Sportback  Quattro 2012 > 2019
+    [30] => A3 (8Y) Hatchback
+    [31] => A3 (8Y) Hatchback  2020 >
+    [32] => A3 (8Y) Hatchback  Quattro
+    [33] => A3 (8Y) Hatchback  Quattro 2020 >
+    [34] => A3 (8Y) Saloon
+    [35] => A3 (8Y) Saloon  2020 >
+    [36] => A3 (8Y) Saloon  Quattro
+    [37] => A3 (8Y) Saloon  Quattro 2020 >
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:47:30] Getting years for make: Audi, model: A3, listing: A3 (8Y) Saloon  2020 >
+--------------------------------------------------------------------------------
+[2025-05-23 10:47:30] Found year ranges:
+Data: Array
+(
+    [0] => stdClass Object
+        (
+            [year_from] => 2020
+            [year_to] => 0
+        )
+
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:47:30] Generated years array:
+Data: Array
+(
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:50:34] Plugin activation started
+--------------------------------------------------------------------------------
+[2025-05-23 10:50:34] Creating/updating tables
+--------------------------------------------------------------------------------
+[2025-05-23 10:50:34] SQL for vehicle_base:
+Data: CREATE TABLE IF NOT EXISTS wp_vehicle_base (
+        vehicle_id INT NOT NULL,
+        make VARCHAR(100) NOT NULL,
+        model VARCHAR(100) NOT NULL,
+        listing VARCHAR(255) NOT NULL,
+        year_from FLOAT NOT NULL,
+        year_to FLOAT NOT NULL,
+        PRIMARY KEY (vehicle_id)
+    ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+--------------------------------------------------------------------------------
+[2025-05-23 10:50:34] SQL for engine:
+Data: CREATE TABLE IF NOT EXISTS wp_engine (
+        engine_id INT NOT NULL,
+        engine_code VARCHAR(100) NOT NULL,
+        PRIMARY KEY (engine_id)
+    ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+--------------------------------------------------------------------------------
+[2025-05-23 10:50:34] SQL for vehicle_engine:
+Data: CREATE TABLE IF NOT EXISTS wp_vehicle_engine (
+        vehicle_id INT NOT NULL,
+        engine_id INT NOT NULL,
+        PRIMARY KEY (vehicle_id, engine_id),
+        FOREIGN KEY (vehicle_id) REFERENCES wp_vehicle_base(vehicle_id) ON DELETE CASCADE,
+        FOREIGN KEY (engine_id) REFERENCES wp_engine(engine_id) ON DELETE CASCADE
+    ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+--------------------------------------------------------------------------------
+[2025-05-23 10:50:34] Truncating tables before import
+--------------------------------------------------------------------------------
+[2025-05-23 10:50:34] Executing truncate query:
+Data: TRUNCATE TABLE wp_vehicle_engine
+--------------------------------------------------------------------------------
+[2025-05-23 10:50:34] Executing truncate query:
+Data: TRUNCATE TABLE wp_vehicle_base
+--------------------------------------------------------------------------------
+[2025-05-23 10:50:34] Executing truncate query:
+Data: TRUNCATE TABLE wp_engine
+--------------------------------------------------------------------------------
+[2025-05-23 10:50:34] CSV file paths:
+Data: Array
+(
+    [vehicle_base] => C:\Users\harsh\Local Sites\t4plocal\app\public\wp-content\plugins\vehicle-filter/data/vehicle_base.csv
+    [engine] => C:\Users\harsh\Local Sites\t4plocal\app\public\wp-content\plugins\vehicle-filter/data/engine_table.csv
+    [vehicle_engine] => C:\Users\harsh\Local Sites\t4plocal\app\public\wp-content\plugins\vehicle-filter/data/vehicle_engine.csv
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:50:34] Starting vehicle_base import
+--------------------------------------------------------------------------------
+[2025-05-23 10:50:40] Vehicle base import completed. Imported 2740 rows
+--------------------------------------------------------------------------------
+[2025-05-23 10:50:40] Starting engine import
+--------------------------------------------------------------------------------
+[2025-05-23 10:50:41] Engine import completed. Imported 930 rows
+--------------------------------------------------------------------------------
+[2025-05-23 10:50:41] Starting vehicle_engine import
+--------------------------------------------------------------------------------
+[2025-05-23 10:51:08] Vehicle engine import completed. Imported 30913 rows
+--------------------------------------------------------------------------------
+[2025-05-23 10:51:08] Plugin activation completed
+--------------------------------------------------------------------------------
+[2025-05-23 10:51:29] get_makes function called
+--------------------------------------------------------------------------------
+[2025-05-23 10:51:29] Getting makes from table: wp_vehicle_base
+--------------------------------------------------------------------------------
+[2025-05-23 10:51:29] get_makes function called
+--------------------------------------------------------------------------------
+[2025-05-23 10:51:29] Getting makes from table: wp_vehicle_base
+--------------------------------------------------------------------------------
+[2025-05-23 10:51:29] Found makes:
+Data: Array
+(
+    [0] => Abarth
+    [1] => Acura
+    [2] => Alfa Romeo
+    [3] => Alpine
+    [4] => Audi
+    [5] => Austin
+    [6] => BMW
+    [7] => Buick
+    [8] => Cadillac
+    [9] => Chevrolet
+    [10] => Chrysler
+    [11] => Chrysler America
+    [12] => Citroen
+    [13] => Cupra
+    [14] => Dacia
+    [15] => Daewoo
+    [16] => Daihatsu
+    [17] => Daimler
+    [18] => Dodge
+    [19] => Ferrari
+    [20] => Fiat
+    [21] => Ford
+    [22] => Ford America
+    [23] => GMC
+    [24] => Honda
+    [25] => Honda MK X
+    [26] => Hyundai
+    [27] => Ineos
+    [28] => Innocenti
+    [29] => Isuzu
+    [30] => Iveco
+    [31] => Jaguar
+    [32] => Jeep
+    [33] => Jenson
+    [34] => Kia
+    [35] => Lada
+    [36] => Lancia
+    [37] => Land Rover
+    [38] => Lexus
+    [39] => Man
+    [40] => Mazda
+    [41] => Mercedes
+    [42] => Mercedes-Benz
+    [43] => Mercury
+    [44] => MG
+    [45] => Mini
+    [46] => Mitsubishi
+    [47] => Morgan
+    [48] => Morris
+    [49] => Nissan
+    [50] => Oldsmobile
+    [51] => Opel
+    [52] => Peugeot
+    [53] => Plymouth
+    [54] => Pontiac
+    [55] => Porsche
+    [56] => Ram Truck
+    [57] => Renault
+    [58] => Riley
+    [59] => Rover
+    [60] => Saab
+    [61] => Scion
+    [62] => Seat
+    [63] => Skoda
+    [64] => Ssang Yong
+    [65] => Subaru
+    [66] => Suzuki
+    [67] => Tesla
+    [68] => Toyota
+    [69] => Triumph
+    [70] => Vauxhall
+    [71] => Volkswagen
+    [72] => Volvo
+    [73] => Wolsley
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:51:29] Found makes:
+Data: Array
+(
+    [0] => Abarth
+    [1] => Acura
+    [2] => Alfa Romeo
+    [3] => Alpine
+    [4] => Audi
+    [5] => Austin
+    [6] => BMW
+    [7] => Buick
+    [8] => Cadillac
+    [9] => Chevrolet
+    [10] => Chrysler
+    [11] => Chrysler America
+    [12] => Citroen
+    [13] => Cupra
+    [14] => Dacia
+    [15] => Daewoo
+    [16] => Daihatsu
+    [17] => Daimler
+    [18] => Dodge
+    [19] => Ferrari
+    [20] => Fiat
+    [21] => Ford
+    [22] => Ford America
+    [23] => GMC
+    [24] => Honda
+    [25] => Honda MK X
+    [26] => Hyundai
+    [27] => Ineos
+    [28] => Innocenti
+    [29] => Isuzu
+    [30] => Iveco
+    [31] => Jaguar
+    [32] => Jeep
+    [33] => Jenson
+    [34] => Kia
+    [35] => Lada
+    [36] => Lancia
+    [37] => Land Rover
+    [38] => Lexus
+    [39] => Man
+    [40] => Mazda
+    [41] => Mercedes
+    [42] => Mercedes-Benz
+    [43] => Mercury
+    [44] => MG
+    [45] => Mini
+    [46] => Mitsubishi
+    [47] => Morgan
+    [48] => Morris
+    [49] => Nissan
+    [50] => Oldsmobile
+    [51] => Opel
+    [52] => Peugeot
+    [53] => Plymouth
+    [54] => Pontiac
+    [55] => Porsche
+    [56] => Ram Truck
+    [57] => Renault
+    [58] => Riley
+    [59] => Rover
+    [60] => Saab
+    [61] => Scion
+    [62] => Seat
+    [63] => Skoda
+    [64] => Ssang Yong
+    [65] => Subaru
+    [66] => Suzuki
+    [67] => Tesla
+    [68] => Toyota
+    [69] => Triumph
+    [70] => Vauxhall
+    [71] => Volkswagen
+    [72] => Volvo
+    [73] => Wolsley
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:51:31] Getting models for make: Audi
+--------------------------------------------------------------------------------
+[2025-05-23 10:51:31] Found models:
+Data: Array
+(
+    [0] => 100
+    [1] => 200
+    [2] => 80
+    [3] => A1
+    [4] => A1 City Carver
+    [5] => A2
+    [6] => A3
+    [7] => A3 E-Tron
+    [8] => A3 G-Tron
+    [9] => A4
+    [10] => A5
+    [11] => A6
+    [12] => A7
+    [13] => Coupé
+    [14] => Q2
+    [15] => Q3
+    [16] => Q5
+    [17] => RS2
+    [18] => RS3
+    [19] => S2
+    [20] => S3
+    [21] => S4
+    [22] => S5
+    [23] => S6
+    [24] => TT
+    [25] => UR Quattro
+    [26] => V8
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:51:31] Getting models for make: Audi
+--------------------------------------------------------------------------------
+[2025-05-23 10:51:31] Found models:
+Data: Array
+(
+    [0] => 100
+    [1] => 200
+    [2] => 80
+    [3] => A1
+    [4] => A1 City Carver
+    [5] => A2
+    [6] => A3
+    [7] => A3 E-Tron
+    [8] => A3 G-Tron
+    [9] => A4
+    [10] => A5
+    [11] => A6
+    [12] => A7
+    [13] => Coupé
+    [14] => Q2
+    [15] => Q3
+    [16] => Q5
+    [17] => RS2
+    [18] => RS3
+    [19] => S2
+    [20] => S3
+    [21] => S4
+    [22] => S5
+    [23] => S6
+    [24] => TT
+    [25] => UR Quattro
+    [26] => V8
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:51:35] Getting listings for make: Audi, model: A3 E-Tron
+--------------------------------------------------------------------------------
+[2025-05-23 10:51:35] Found listings:
+Data: Array
+(
+    [0] => A3 E-Tron (8V) Sportback
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:51:36] Getting years for make: Audi, model: A3 E-Tron, listing: A3 E-Tron (8V) Sportback
+--------------------------------------------------------------------------------
+[2025-05-23 10:51:36] Found year ranges:
+Data: Array
+(
+    [0] => stdClass Object
+        (
+            [year_from] => 2014
+            [year_to] => 2019
+        )
+
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:51:36] Generated years array:
+Data: Array
+(
+    [0] => 2014
+    [1] => 2015
+    [2] => 2016
+    [3] => 2017
+    [4] => 2018
+    [5] => 2019
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:51:38] Getting engines for:
+Data: Array
+(
+    [make] => Audi
+    [model] => A3 E-Tron
+    [listing] => A3 E-Tron (8V) Sportback
+    [year] => 2017
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:51:38] Vehicle ID query:
+Data: SELECT vehicle_id FROM wp_vehicle_base WHERE make = 'Audi' AND model = 'A3 E-Tron' AND listing = 'A3 E-Tron (8V) Sportback' AND year_from <= 2017 AND year_to >= 2017
+--------------------------------------------------------------------------------
+[2025-05-23 10:51:38] Found vehicle_ids:
+Data: Array
+(
+    [0] => 942
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:51:38] Engine ID query:
+Data: SELECT DISTINCT engine_id FROM wp_vehicle_engine WHERE vehicle_id IN (942)
+--------------------------------------------------------------------------------
+[2025-05-23 10:51:38] Found engine_ids:
+Data: Array
+(
+    [0] => 40
+    [1] => 525
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:51:38] Engine code query:
+Data: SELECT engine_code FROM wp_engine WHERE engine_id IN (40,525)
+--------------------------------------------------------------------------------
+[2025-05-23 10:51:38] Found engine codes:
+Data: Array
+(
+    [0] => 1.4TFSi
+    [1] => 1.5TFSi Hybrid
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:51:44] Getting vehicle_id for:
+Data: Array
+(
+    [make] => Audi
+    [model] => A3 E-Tron
+    [listing] => A3 E-Tron (8V) Sportback
+    [year] => 2017
+    [engine] => 1.4TFSi
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:51:44] Vehicle ID query:
+Data: SELECT vb.vehicle_id
+        FROM wp_vehicle_base AS vb
+        JOIN wp_vehicle_engine AS ve ON ve.vehicle_id = vb.vehicle_id
+        JOIN wp_engine AS e ON e.engine_id = ve.engine_id
+        WHERE vb.make = 'Audi'
+        AND vb.model = 'A3 E-Tron'
+        AND vb.listing = 'A3 E-Tron (8V) Sportback'
+        AND 2017 BETWEEN vb.year_from AND vb.year_to
+        AND e.engine_code = '1.4TFSi'
+        LIMIT 1
+--------------------------------------------------------------------------------
+[2025-05-23 10:51:44] Found vehicle_id:
+Data: 942
+--------------------------------------------------------------------------------
+[2025-05-23 10:51:45] get_makes function called
+--------------------------------------------------------------------------------
+[2025-05-23 10:51:45] get_makes function called
+--------------------------------------------------------------------------------
+[2025-05-23 10:51:45] Getting makes from table: wp_vehicle_base
+--------------------------------------------------------------------------------
+[2025-05-23 10:51:45] Getting makes from table: wp_vehicle_base
+--------------------------------------------------------------------------------
+[2025-05-23 10:51:45] Found makes:
+Data: Array
+(
+    [0] => Abarth
+    [1] => Acura
+    [2] => Alfa Romeo
+    [3] => Alpine
+    [4] => Audi
+    [5] => Austin
+    [6] => BMW
+    [7] => Buick
+    [8] => Cadillac
+    [9] => Chevrolet
+    [10] => Chrysler
+    [11] => Chrysler America
+    [12] => Citroen
+    [13] => Cupra
+    [14] => Dacia
+    [15] => Daewoo
+    [16] => Daihatsu
+    [17] => Daimler
+    [18] => Dodge
+    [19] => Ferrari
+    [20] => Fiat
+    [21] => Ford
+    [22] => Ford America
+    [23] => GMC
+    [24] => Honda
+    [25] => Honda MK X
+    [26] => Hyundai
+    [27] => Ineos
+    [28] => Innocenti
+    [29] => Isuzu
+    [30] => Iveco
+    [31] => Jaguar
+    [32] => Jeep
+    [33] => Jenson
+    [34] => Kia
+    [35] => Lada
+    [36] => Lancia
+    [37] => Land Rover
+    [38] => Lexus
+    [39] => Man
+    [40] => Mazda
+    [41] => Mercedes
+    [42] => Mercedes-Benz
+    [43] => Mercury
+    [44] => MG
+    [45] => Mini
+    [46] => Mitsubishi
+    [47] => Morgan
+    [48] => Morris
+    [49] => Nissan
+    [50] => Oldsmobile
+    [51] => Opel
+    [52] => Peugeot
+    [53] => Plymouth
+    [54] => Pontiac
+    [55] => Porsche
+    [56] => Ram Truck
+    [57] => Renault
+    [58] => Riley
+    [59] => Rover
+    [60] => Saab
+    [61] => Scion
+    [62] => Seat
+    [63] => Skoda
+    [64] => Ssang Yong
+    [65] => Subaru
+    [66] => Suzuki
+    [67] => Tesla
+    [68] => Toyota
+    [69] => Triumph
+    [70] => Vauxhall
+    [71] => Volkswagen
+    [72] => Volvo
+    [73] => Wolsley
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:51:45] Found makes:
+Data: Array
+(
+    [0] => Abarth
+    [1] => Acura
+    [2] => Alfa Romeo
+    [3] => Alpine
+    [4] => Audi
+    [5] => Austin
+    [6] => BMW
+    [7] => Buick
+    [8] => Cadillac
+    [9] => Chevrolet
+    [10] => Chrysler
+    [11] => Chrysler America
+    [12] => Citroen
+    [13] => Cupra
+    [14] => Dacia
+    [15] => Daewoo
+    [16] => Daihatsu
+    [17] => Daimler
+    [18] => Dodge
+    [19] => Ferrari
+    [20] => Fiat
+    [21] => Ford
+    [22] => Ford America
+    [23] => GMC
+    [24] => Honda
+    [25] => Honda MK X
+    [26] => Hyundai
+    [27] => Ineos
+    [28] => Innocenti
+    [29] => Isuzu
+    [30] => Iveco
+    [31] => Jaguar
+    [32] => Jeep
+    [33] => Jenson
+    [34] => Kia
+    [35] => Lada
+    [36] => Lancia
+    [37] => Land Rover
+    [38] => Lexus
+    [39] => Man
+    [40] => Mazda
+    [41] => Mercedes
+    [42] => Mercedes-Benz
+    [43] => Mercury
+    [44] => MG
+    [45] => Mini
+    [46] => Mitsubishi
+    [47] => Morgan
+    [48] => Morris
+    [49] => Nissan
+    [50] => Oldsmobile
+    [51] => Opel
+    [52] => Peugeot
+    [53] => Plymouth
+    [54] => Pontiac
+    [55] => Porsche
+    [56] => Ram Truck
+    [57] => Renault
+    [58] => Riley
+    [59] => Rover
+    [60] => Saab
+    [61] => Scion
+    [62] => Seat
+    [63] => Skoda
+    [64] => Ssang Yong
+    [65] => Subaru
+    [66] => Suzuki
+    [67] => Tesla
+    [68] => Toyota
+    [69] => Triumph
+    [70] => Vauxhall
+    [71] => Volkswagen
+    [72] => Volvo
+    [73] => Wolsley
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:53:23] get_makes function called
+--------------------------------------------------------------------------------
+[2025-05-23 10:53:23] Getting makes from table: wp_vehicle_base
+--------------------------------------------------------------------------------
+[2025-05-23 10:53:23] Found makes:
+Data: Array
+(
+    [0] => Abarth
+    [1] => Acura
+    [2] => Alfa Romeo
+    [3] => Alpine
+    [4] => Audi
+    [5] => Austin
+    [6] => BMW
+    [7] => Buick
+    [8] => Cadillac
+    [9] => Chevrolet
+    [10] => Chrysler
+    [11] => Chrysler America
+    [12] => Citroen
+    [13] => Cupra
+    [14] => Dacia
+    [15] => Daewoo
+    [16] => Daihatsu
+    [17] => Daimler
+    [18] => Dodge
+    [19] => Ferrari
+    [20] => Fiat
+    [21] => Ford
+    [22] => Ford America
+    [23] => GMC
+    [24] => Honda
+    [25] => Honda MK X
+    [26] => Hyundai
+    [27] => Ineos
+    [28] => Innocenti
+    [29] => Isuzu
+    [30] => Iveco
+    [31] => Jaguar
+    [32] => Jeep
+    [33] => Jenson
+    [34] => Kia
+    [35] => Lada
+    [36] => Lancia
+    [37] => Land Rover
+    [38] => Lexus
+    [39] => Man
+    [40] => Mazda
+    [41] => Mercedes
+    [42] => Mercedes-Benz
+    [43] => Mercury
+    [44] => MG
+    [45] => Mini
+    [46] => Mitsubishi
+    [47] => Morgan
+    [48] => Morris
+    [49] => Nissan
+    [50] => Oldsmobile
+    [51] => Opel
+    [52] => Peugeot
+    [53] => Plymouth
+    [54] => Pontiac
+    [55] => Porsche
+    [56] => Ram Truck
+    [57] => Renault
+    [58] => Riley
+    [59] => Rover
+    [60] => Saab
+    [61] => Scion
+    [62] => Seat
+    [63] => Skoda
+    [64] => Ssang Yong
+    [65] => Subaru
+    [66] => Suzuki
+    [67] => Tesla
+    [68] => Toyota
+    [69] => Triumph
+    [70] => Vauxhall
+    [71] => Volkswagen
+    [72] => Volvo
+    [73] => Wolsley
+)
+
+--------------------------------------------------------------------------------
+[2025-05-23 10:53:23] get_makes function called
+--------------------------------------------------------------------------------
+[2025-05-23 10:53:23] Getting makes from table: wp_vehicle_base
+--------------------------------------------------------------------------------
+[2025-05-23 10:53:23] Found makes:
+Data: Array
+(
+    [0] => Abarth
+    [1] => Acura
+    [2] => Alfa Romeo
+    [3] => Alpine
+    [4] => Audi
+    [5] => Austin
+    [6] => BMW
+    [7] => Buick
+    [8] => Cadillac
+    [9] => Chevrolet
+    [10] => Chrysler
+    [11] => Chrysler America
+    [12] => Citroen
+    [13] => Cupra
+    [14] => Dacia
+    [15] => Daewoo
+    [16] => Daihatsu
+    [17] => Daimler
+    [18] => Dodge
+    [19] => Ferrari
+    [20] => Fiat
+    [21] => Ford
+    [22] => Ford America
+    [23] => GMC
+    [24] => Honda
+    [25] => Honda MK X
+    [26] => Hyundai
+    [27] => Ineos
+    [28] => Innocenti
+    [29] => Isuzu
+    [30] => Iveco
+    [31] => Jaguar
+    [32] => Jeep
+    [33] => Jenson
+    [34] => Kia
+    [35] => Lada
+    [36] => Lancia
+    [37] => Land Rover
+    [38] => Lexus
+    [39] => Man
+    [40] => Mazda
+    [41] => Mercedes
+    [42] => Mercedes-Benz
+    [43] => Mercury
+    [44] => MG
+    [45] => Mini
+    [46] => Mitsubishi
+    [47] => Morgan
+    [48] => Morris
+    [49] => Nissan
+    [50] => Oldsmobile
+    [51] => Opel
+    [52] => Peugeot
+    [53] => Plymouth
+    [54] => Pontiac
+    [55] => Porsche
+    [56] => Ram Truck
+    [57] => Renault
+    [58] => Riley
+    [59] => Rover
+    [60] => Saab
+    [61] => Scion
+    [62] => Seat
+    [63] => Skoda
+    [64] => Ssang Yong
+    [65] => Subaru
+    [66] => Suzuki
+    [67] => Tesla
+    [68] => Toyota
+    [69] => Triumph
+    [70] => Vauxhall
+    [71] => Volkswagen
+    [72] => Volvo
+    [73] => Wolsley
+)
+
+--------------------------------------------------------------------------------
+[2025-05-26 02:16:10] get_makes function called
+--------------------------------------------------------------------------------
+[2025-05-26 02:16:10] get_makes function called
+--------------------------------------------------------------------------------
+[2025-05-26 02:16:10] Getting makes from table: wp_vehicle_base
+--------------------------------------------------------------------------------
+[2025-05-26 02:16:10] Getting makes from table: wp_vehicle_base
+--------------------------------------------------------------------------------
+[2025-05-26 02:16:11] Found makes:
+Data: Array
+(
+    [0] => Abarth
+    [1] => Acura
+    [2] => Alfa Romeo
+    [3] => Alpine
+    [4] => Audi
+    [5] => Austin
+    [6] => BMW
+    [7] => Buick
+    [8] => Cadillac
+    [9] => Chevrolet
+    [10] => Chrysler
+    [11] => Chrysler America
+    [12] => Citroen
+    [13] => Cupra
+    [14] => Dacia
+    [15] => Daewoo
+    [16] => Daihatsu
+    [17] => Daimler
+    [18] => Dodge
+    [19] => Ferrari
+    [20] => Fiat
+    [21] => Ford
+    [22] => Ford America
+    [23] => GMC
+    [24] => Honda
+    [25] => Honda MK X
+    [26] => Hyundai
+    [27] => Ineos
+    [28] => Innocenti
+    [29] => Isuzu
+    [30] => Iveco
+    [31] => Jaguar
+    [32] => Jeep
+    [33] => Jenson
+    [34] => Kia
+    [35] => Lada
+    [36] => Lancia
+    [37] => Land Rover
+    [38] => Lexus
+    [39] => Man
+    [40] => Mazda
+    [41] => Mercedes
+    [42] => Mercedes-Benz
+    [43] => Mercury
+    [44] => MG
+    [45] => Mini
+    [46] => Mitsubishi
+    [47] => Morgan
+    [48] => Morris
+    [49] => Nissan
+    [50] => Oldsmobile
+    [51] => Opel
+    [52] => Peugeot
+    [53] => Plymouth
+    [54] => Pontiac
+    [55] => Porsche
+    [56] => Ram Truck
+    [57] => Renault
+    [58] => Riley
+    [59] => Rover
+    [60] => Saab
+    [61] => Scion
+    [62] => Seat
+    [63] => Skoda
+    [64] => Ssang Yong
+    [65] => Subaru
+    [66] => Suzuki
+    [67] => Tesla
+    [68] => Toyota
+    [69] => Triumph
+    [70] => Vauxhall
+    [71] => Volkswagen
+    [72] => Volvo
+    [73] => Wolsley
+)
+
+--------------------------------------------------------------------------------
+[2025-05-26 02:16:11] Found makes:
+Data: Array
+(
+    [0] => Abarth
+    [1] => Acura
+    [2] => Alfa Romeo
+    [3] => Alpine
+    [4] => Audi
+    [5] => Austin
+    [6] => BMW
+    [7] => Buick
+    [8] => Cadillac
+    [9] => Chevrolet
+    [10] => Chrysler
+    [11] => Chrysler America
+    [12] => Citroen
+    [13] => Cupra
+    [14] => Dacia
+    [15] => Daewoo
+    [16] => Daihatsu
+    [17] => Daimler
+    [18] => Dodge
+    [19] => Ferrari
+    [20] => Fiat
+    [21] => Ford
+    [22] => Ford America
+    [23] => GMC
+    [24] => Honda
+    [25] => Honda MK X
+    [26] => Hyundai
+    [27] => Ineos
+    [28] => Innocenti
+    [29] => Isuzu
+    [30] => Iveco
+    [31] => Jaguar
+    [32] => Jeep
+    [33] => Jenson
+    [34] => Kia
+    [35] => Lada
+    [36] => Lancia
+    [37] => Land Rover
+    [38] => Lexus
+    [39] => Man
+    [40] => Mazda
+    [41] => Mercedes
+    [42] => Mercedes-Benz
+    [43] => Mercury
+    [44] => MG
+    [45] => Mini
+    [46] => Mitsubishi
+    [47] => Morgan
+    [48] => Morris
+    [49] => Nissan
+    [50] => Oldsmobile
+    [51] => Opel
+    [52] => Peugeot
+    [53] => Plymouth
+    [54] => Pontiac
+    [55] => Porsche
+    [56] => Ram Truck
+    [57] => Renault
+    [58] => Riley
+    [59] => Rover
+    [60] => Saab
+    [61] => Scion
+    [62] => Seat
+    [63] => Skoda
+    [64] => Ssang Yong
+    [65] => Subaru
+    [66] => Suzuki
+    [67] => Tesla
+    [68] => Toyota
+    [69] => Triumph
+    [70] => Vauxhall
+    [71] => Volkswagen
+    [72] => Volvo
+    [73] => Wolsley
+)
+
+--------------------------------------------------------------------------------
+[2025-05-26 02:16:15] get_makes function called
+--------------------------------------------------------------------------------
+[2025-05-26 02:16:15] get_makes function called
+--------------------------------------------------------------------------------
+[2025-05-26 02:16:31] get_makes function called
+--------------------------------------------------------------------------------
+[2025-05-26 02:16:31] Getting makes from table: wp_vehicle_base
+--------------------------------------------------------------------------------
+[2025-05-26 02:16:31] Found makes:
+Data: Array
+(
+    [0] => Abarth
+    [1] => Acura
+    [2] => Alfa Romeo
+    [3] => Alpine
+    [4] => Audi
+    [5] => Austin
+    [6] => BMW
+    [7] => Buick
+    [8] => Cadillac
+    [9] => Chevrolet
+    [10] => Chrysler
+    [11] => Chrysler America
+    [12] => Citroen
+    [13] => Cupra
+    [14] => Dacia
+    [15] => Daewoo
+    [16] => Daihatsu
+    [17] => Daimler
+    [18] => Dodge
+    [19] => Ferrari
+    [20] => Fiat
+    [21] => Ford
+    [22] => Ford America
+    [23] => GMC
+    [24] => Honda
+    [25] => Honda MK X
+    [26] => Hyundai
+    [27] => Ineos
+    [28] => Innocenti
+    [29] => Isuzu
+    [30] => Iveco
+    [31] => Jaguar
+    [32] => Jeep
+    [33] => Jenson
+    [34] => Kia
+    [35] => Lada
+    [36] => Lancia
+    [37] => Land Rover
+    [38] => Lexus
+    [39] => Man
+    [40] => Mazda
+    [41] => Mercedes
+    [42] => Mercedes-Benz
+    [43] => Mercury
+    [44] => MG
+    [45] => Mini
+    [46] => Mitsubishi
+    [47] => Morgan
+    [48] => Morris
+    [49] => Nissan
+    [50] => Oldsmobile
+    [51] => Opel
+    [52] => Peugeot
+    [53] => Plymouth
+    [54] => Pontiac
+    [55] => Porsche
+    [56] => Ram Truck
+    [57] => Renault
+    [58] => Riley
+    [59] => Rover
+    [60] => Saab
+    [61] => Scion
+    [62] => Seat
+    [63] => Skoda
+    [64] => Ssang Yong
+    [65] => Subaru
+    [66] => Suzuki
+    [67] => Tesla
+    [68] => Toyota
+    [69] => Triumph
+    [70] => Vauxhall
+    [71] => Volkswagen
+    [72] => Volvo
+    [73] => Wolsley
+)
+
+--------------------------------------------------------------------------------
+[2025-05-26 02:16:31] get_makes function called
+--------------------------------------------------------------------------------
+[2025-05-26 02:16:31] Getting makes from table: wp_vehicle_base
+--------------------------------------------------------------------------------
+[2025-05-26 02:16:31] Found makes:
+Data: Array
+(
+    [0] => Abarth
+    [1] => Acura
+    [2] => Alfa Romeo
+    [3] => Alpine
+    [4] => Audi
+    [5] => Austin
+    [6] => BMW
+    [7] => Buick
+    [8] => Cadillac
+    [9] => Chevrolet
+    [10] => Chrysler
+    [11] => Chrysler America
+    [12] => Citroen
+    [13] => Cupra
+    [14] => Dacia
+    [15] => Daewoo
+    [16] => Daihatsu
+    [17] => Daimler
+    [18] => Dodge
+    [19] => Ferrari
+    [20] => Fiat
+    [21] => Ford
+    [22] => Ford America
+    [23] => GMC
+    [24] => Honda
+    [25] => Honda MK X
+    [26] => Hyundai
+    [27] => Ineos
+    [28] => Innocenti
+    [29] => Isuzu
+    [30] => Iveco
+    [31] => Jaguar
+    [32] => Jeep
+    [33] => Jenson
+    [34] => Kia
+    [35] => Lada
+    [36] => Lancia
+    [37] => Land Rover
+    [38] => Lexus
+    [39] => Man
+    [40] => Mazda
+    [41] => Mercedes
+    [42] => Mercedes-Benz
+    [43] => Mercury
+    [44] => MG
+    [45] => Mini
+    [46] => Mitsubishi
+    [47] => Morgan
+    [48] => Morris
+    [49] => Nissan
+    [50] => Oldsmobile
+    [51] => Opel
+    [52] => Peugeot
+    [53] => Plymouth
+    [54] => Pontiac
+    [55] => Porsche
+    [56] => Ram Truck
+    [57] => Renault
+    [58] => Riley
+    [59] => Rover
+    [60] => Saab
+    [61] => Scion
+    [62] => Seat
+    [63] => Skoda
+    [64] => Ssang Yong
+    [65] => Subaru
+    [66] => Suzuki
+    [67] => Tesla
+    [68] => Toyota
+    [69] => Triumph
+    [70] => Vauxhall
+    [71] => Volkswagen
+    [72] => Volvo
+    [73] => Wolsley
+)
+
+--------------------------------------------------------------------------------
+[2025-05-26 02:16:35] Getting models for make: Audi
+--------------------------------------------------------------------------------
+[2025-05-26 02:16:35] Getting models for make: Audi
+--------------------------------------------------------------------------------
+[2025-05-26 02:16:35] Found models:
+Data: Array
+(
+    [0] => 100
+    [1] => 200
+    [2] => 80
+    [3] => A1
+    [4] => A1 City Carver
+    [5] => A2
+    [6] => A3
+    [7] => A3 E-Tron
+    [8] => A3 G-Tron
+    [9] => A4
+    [10] => A5
+    [11] => A6
+    [12] => A7
+    [13] => Coupé
+    [14] => Q2
+    [15] => Q3
+    [16] => Q5
+    [17] => RS2
+    [18] => RS3
+    [19] => S2
+    [20] => S3
+    [21] => S4
+    [22] => S5
+    [23] => S6
+    [24] => TT
+    [25] => UR Quattro
+    [26] => V8
+)
+
+--------------------------------------------------------------------------------
+[2025-05-26 02:16:35] Found models:
+Data: Array
+(
+    [0] => 100
+    [1] => 200
+    [2] => 80
+    [3] => A1
+    [4] => A1 City Carver
+    [5] => A2
+    [6] => A3
+    [7] => A3 E-Tron
+    [8] => A3 G-Tron
+    [9] => A4
+    [10] => A5
+    [11] => A6
+    [12] => A7
+    [13] => Coupé
+    [14] => Q2
+    [15] => Q3
+    [16] => Q5
+    [17] => RS2
+    [18] => RS3
+    [19] => S2
+    [20] => S3
+    [21] => S4
+    [22] => S5
+    [23] => S6
+    [24] => TT
+    [25] => UR Quattro
+    [26] => V8
+)
+
+--------------------------------------------------------------------------------
+[2025-05-26 02:16:41] Getting listings for make: Audi, model: A3
+--------------------------------------------------------------------------------
+[2025-05-26 02:16:41] Found listings:
+Data: Array
+(
+    [0] => A3 (8L) Hatchback
+    [1] => A3 (8L) Hatchback  1996 > 2003
+    [2] => A3 (8L) Hatchback  Quattro
+    [3] => A3 (8L) Hatchback  Quattro 1999 > 2003
+    [4] => A3 (8P) Cabriolet
+    [5] => A3 (8P) Cabriolet  2003 > 2012
+    [6] => A3 (8P) Hatchback
+    [7] => A3 (8P) Hatchback  2003 > 2012
+    [8] => A3 (8P) Hatchback  Quattro
+    [9] => A3 (8P) Hatchback  Quattro 2003 > 2012
+    [10] => A3 (8P) Sportback
+    [11] => A3 (8P) Sportback  2003 > 2012
+    [12] => A3 (8P) Sportback  Quattro
+    [13] => A3 (8P) Sportback  Quattro 2003 > 2012
+    [14] => A3 (8V) Cabriolet
+    [15] => A3 (8V) Cabriolet  2014 > 2019
+    [16] => A3 (8V) Cabriolet  Quattro
+    [17] => A3 (8V) Cabriolet  Quattro 2014 > 2019
+    [18] => A3 (8V) Hatchback
+    [19] => A3 (8V) Hatchback  2012 > 2019
+    [20] => A3 (8V) Hatchback  Quattro
+    [21] => A3 (8V) Hatchback  Quattro 2012 > 2019
+    [22] => A3 (8V) Saloon
+    [23] => A3 (8V) Saloon  2012 > 2019
+    [24] => A3 (8V) Saloon  Quattro
+    [25] => A3 (8V) Saloon  Quattro 2012 > 2019
+    [26] => A3 (8V) Sportback
+    [27] => A3 (8V) Sportback  2012 > 2019
+    [28] => A3 (8V) Sportback  Quattro
+    [29] => A3 (8V) Sportback  Quattro 2012 > 2019
+    [30] => A3 (8Y) Hatchback
+    [31] => A3 (8Y) Hatchback  2020 >
+    [32] => A3 (8Y) Hatchback  Quattro
+    [33] => A3 (8Y) Hatchback  Quattro 2020 >
+    [34] => A3 (8Y) Saloon
+    [35] => A3 (8Y) Saloon  2020 >
+    [36] => A3 (8Y) Saloon  Quattro
+    [37] => A3 (8Y) Saloon  Quattro 2020 >
+)
+
+--------------------------------------------------------------------------------
+[2025-05-26 02:16:44] Getting years for make: Audi, model: A3, listing: A3 (8P) Hatchback  Quattro
+--------------------------------------------------------------------------------
+[2025-05-26 02:16:44] Found year ranges:
+Data: Array
+(
+    [0] => stdClass Object
+        (
+            [year_from] => 2003
+            [year_to] => 2012
+        )
+
+)
+
+--------------------------------------------------------------------------------
+[2025-05-26 02:16:44] Generated years array:
+Data: Array
+(
+    [0] => 2003
+    [1] => 2004
+    [2] => 2005
+    [3] => 2006
+    [4] => 2007
+    [5] => 2008
+    [6] => 2009
+    [7] => 2010
+    [8] => 2011
+    [9] => 2012
+)
+
+--------------------------------------------------------------------------------
+[2025-05-26 02:16:47] Getting engines for:
+Data: Array
+(
+    [make] => Audi
+    [model] => A3
+    [listing] => A3 (8P) Hatchback  Quattro
+    [year] => 2008
+)
+
+--------------------------------------------------------------------------------
+[2025-05-26 02:16:47] Vehicle ID query:
+Data: SELECT vehicle_id FROM wp_vehicle_base WHERE make = 'Audi' AND model = 'A3' AND listing = 'A3 (8P) Hatchback  Quattro' AND year_from <= 2008 AND year_to >= 2008
+--------------------------------------------------------------------------------
+[2025-05-26 02:16:47] Found vehicle_ids:
+Data: Array
+(
+    [0] => 927
+)
+
+--------------------------------------------------------------------------------
+[2025-05-26 02:16:47] Engine ID query:
+Data: SELECT DISTINCT engine_id FROM wp_vehicle_engine WHERE vehicle_id IN (927)
+--------------------------------------------------------------------------------
+[2025-05-26 02:16:47] Found engine_ids:
+Data: Array
+(
+    [0] => 40
+    [1] => 42
+    [2] => 54
+    [3] => 55
+    [4] => 523
+)
+
+--------------------------------------------------------------------------------
+[2025-05-26 02:16:47] Engine code query:
+Data: SELECT engine_code FROM wp_engine WHERE engine_id IN (40,42,54,55,523)
+--------------------------------------------------------------------------------
+[2025-05-26 02:16:47] Found engine codes:
+Data: Array
+(
+    [0] => 1.4TFSi
+    [1] => 2.0TDi
+    [2] => 1.6FSi
+    [3] => 2.0FSi 1.6TDi
+    [4] => 3.2-V6
+)
+
+--------------------------------------------------------------------------------
+[2025-05-26 02:16:52] Getting vehicle_id for:
+Data: Array
+(
+    [make] => Audi
+    [model] => A3
+    [listing] => A3 (8P) Hatchback  Quattro
+    [year] => 2008
+    [engine] => 1.6FSi
+)
+
+--------------------------------------------------------------------------------
+[2025-05-26 02:16:52] Vehicle ID query:
+Data: SELECT vb.vehicle_id
+        FROM wp_vehicle_base AS vb
+        JOIN wp_vehicle_engine AS ve ON ve.vehicle_id = vb.vehicle_id
+        JOIN wp_engine AS e ON e.engine_id = ve.engine_id
+        WHERE vb.make = 'Audi'
+        AND vb.model = 'A3'
+        AND vb.listing = 'A3 (8P) Hatchback  Quattro'
+        AND 2008 BETWEEN vb.year_from AND vb.year_to
+        AND e.engine_code = '1.6FSi'
+        LIMIT 1
+--------------------------------------------------------------------------------
+[2025-05-26 02:16:52] Found vehicle_id:
+Data: 927
+--------------------------------------------------------------------------------
+[2025-05-26 02:16:55] get_makes function called
+--------------------------------------------------------------------------------
+[2025-05-26 02:16:55] get_makes function called
+--------------------------------------------------------------------------------
+[2025-05-26 02:16:55] Getting makes from table: wp_vehicle_base
+--------------------------------------------------------------------------------
+[2025-05-26 02:16:55] Getting makes from table: wp_vehicle_base
+--------------------------------------------------------------------------------
+[2025-05-26 02:16:55] Found makes:
+Data: Array
+(
+    [0] => Abarth
+    [1] => Acura
+    [2] => Alfa Romeo
+    [3] => Alpine
+    [4] => Audi
+    [5] => Austin
+    [6] => BMW
+    [7] => Buick
+    [8] => Cadillac
+    [9] => Chevrolet
+    [10] => Chrysler
+    [11] => Chrysler America
+    [12] => Citroen
+    [13] => Cupra
+    [14] => Dacia
+    [15] => Daewoo
+    [16] => Daihatsu
+    [17] => Daimler
+    [18] => Dodge
+    [19] => Ferrari
+    [20] => Fiat
+    [21] => Ford
+    [22] => Ford America
+    [23] => GMC
+    [24] => Honda
+    [25] => Honda MK X
+    [26] => Hyundai
+    [27] => Ineos
+    [28] => Innocenti
+    [29] => Isuzu
+    [30] => Iveco
+    [31] => Jaguar
+    [32] => Jeep
+    [33] => Jenson
+    [34] => Kia
+    [35] => Lada
+    [36] => Lancia
+    [37] => Land Rover
+    [38] => Lexus
+    [39] => Man
+    [40] => Mazda
+    [41] => Mercedes
+    [42] => Mercedes-Benz
+    [43] => Mercury
+    [44] => MG
+    [45] => Mini
+    [46] => Mitsubishi
+    [47] => Morgan
+    [48] => Morris
+    [49] => Nissan
+    [50] => Oldsmobile
+    [51] => Opel
+    [52] => Peugeot
+    [53] => Plymouth
+    [54] => Pontiac
+    [55] => Porsche
+    [56] => Ram Truck
+    [57] => Renault
+    [58] => Riley
+    [59] => Rover
+    [60] => Saab
+    [61] => Scion
+    [62] => Seat
+    [63] => Skoda
+    [64] => Ssang Yong
+    [65] => Subaru
+    [66] => Suzuki
+    [67] => Tesla
+    [68] => Toyota
+    [69] => Triumph
+    [70] => Vauxhall
+    [71] => Volkswagen
+    [72] => Volvo
+    [73] => Wolsley
+)
+
+--------------------------------------------------------------------------------
+[2025-05-26 02:16:55] Found makes:
+Data: Array
+(
+    [0] => Abarth
+    [1] => Acura
+    [2] => Alfa Romeo
+    [3] => Alpine
+    [4] => Audi
+    [5] => Austin
+    [6] => BMW
+    [7] => Buick
+    [8] => Cadillac
+    [9] => Chevrolet
+    [10] => Chrysler
+    [11] => Chrysler America
+    [12] => Citroen
+    [13] => Cupra
+    [14] => Dacia
+    [15] => Daewoo
+    [16] => Daihatsu
+    [17] => Daimler
+    [18] => Dodge
+    [19] => Ferrari
+    [20] => Fiat
+    [21] => Ford
+    [22] => Ford America
+    [23] => GMC
+    [24] => Honda
+    [25] => Honda MK X
+    [26] => Hyundai
+    [27] => Ineos
+    [28] => Innocenti
+    [29] => Isuzu
+    [30] => Iveco
+    [31] => Jaguar
+    [32] => Jeep
+    [33] => Jenson
+    [34] => Kia
+    [35] => Lada
+    [36] => Lancia
+    [37] => Land Rover
+    [38] => Lexus
+    [39] => Man
+    [40] => Mazda
+    [41] => Mercedes
+    [42] => Mercedes-Benz
+    [43] => Mercury
+    [44] => MG
+    [45] => Mini
+    [46] => Mitsubishi
+    [47] => Morgan
+    [48] => Morris
+    [49] => Nissan
+    [50] => Oldsmobile
+    [51] => Opel
+    [52] => Peugeot
+    [53] => Plymouth
+    [54] => Pontiac
+    [55] => Porsche
+    [56] => Ram Truck
+    [57] => Renault
+    [58] => Riley
+    [59] => Rover
+    [60] => Saab
+    [61] => Scion
+    [62] => Seat
+    [63] => Skoda
+    [64] => Ssang Yong
+    [65] => Subaru
+    [66] => Suzuki
+    [67] => Tesla
+    [68] => Toyota
+    [69] => Triumph
+    [70] => Vauxhall
+    [71] => Volkswagen
+    [72] => Volvo
+    [73] => Wolsley
+)
+
+--------------------------------------------------------------------------------
+[2025-05-26 02:26:01] get_makes function called
+--------------------------------------------------------------------------------
+[2025-05-26 02:26:01] get_makes function called
+--------------------------------------------------------------------------------
+[2025-05-26 02:26:01] Getting makes from table: wp_vehicle_base
+--------------------------------------------------------------------------------
+[2025-05-26 02:26:02] Found makes:
+Data: Array
+(
+    [0] => Abarth
+    [1] => Acura
+    [2] => Alfa Romeo
+    [3] => Alpine
+    [4] => Audi
+    [5] => Austin
+    [6] => BMW
+    [7] => Buick
+    [8] => Cadillac
+    [9] => Chevrolet
+    [10] => Chrysler
+    [11] => Chrysler America
+    [12] => Citroen
+    [13] => Cupra
+    [14] => Dacia
+    [15] => Daewoo
+    [16] => Daihatsu
+    [17] => Daimler
+    [18] => Dodge
+    [19] => Ferrari
+    [20] => Fiat
+    [21] => Ford
+    [22] => Ford America
+    [23] => GMC
+    [24] => Honda
+    [25] => Honda MK X
+    [26] => Hyundai
+    [27] => Ineos
+    [28] => Innocenti
+    [29] => Isuzu
+    [30] => Iveco
+    [31] => Jaguar
+    [32] => Jeep
+    [33] => Jenson
+    [34] => Kia
+    [35] => Lada
+    [36] => Lancia
+    [37] => Land Rover
+    [38] => Lexus
+    [39] => Man
+    [40] => Mazda
+    [41] => Mercedes
+    [42] => Mercedes-Benz
+    [43] => Mercury
+    [44] => MG
+    [45] => Mini
+    [46] => Mitsubishi
+    [47] => Morgan
+    [48] => Morris
+    [49] => Nissan
+    [50] => Oldsmobile
+    [51] => Opel
+    [52] => Peugeot
+    [53] => Plymouth
+    [54] => Pontiac
+    [55] => Porsche
+    [56] => Ram Truck
+    [57] => Renault
+    [58] => Riley
+    [59] => Rover
+    [60] => Saab
+    [61] => Scion
+    [62] => Seat
+    [63] => Skoda
+    [64] => Ssang Yong
+    [65] => Subaru
+    [66] => Suzuki
+    [67] => Tesla
+    [68] => Toyota
+    [69] => Triumph
+    [70] => Vauxhall
+    [71] => Volkswagen
+    [72] => Volvo
+    [73] => Wolsley
+)
+
+--------------------------------------------------------------------------------
+[2025-05-26 02:26:02] Found makes:
+Data: Array
+(
+    [0] => Abarth
+    [1] => Acura
+    [2] => Alfa Romeo
+    [3] => Alpine
+    [4] => Audi
+    [5] => Austin
+    [6] => BMW
+    [7] => Buick
+    [8] => Cadillac
+    [9] => Chevrolet
+    [10] => Chrysler
+    [11] => Chrysler America
+    [12] => Citroen
+    [13] => Cupra
+    [14] => Dacia
+    [15] => Daewoo
+    [16] => Daihatsu
+    [17] => Daimler
+    [18] => Dodge
+    [19] => Ferrari
+    [20] => Fiat
+    [21] => Ford
+    [22] => Ford America
+    [23] => GMC
+    [24] => Honda
+    [25] => Honda MK X
+    [26] => Hyundai
+    [27] => Ineos
+    [28] => Innocenti
+    [29] => Isuzu
+    [30] => Iveco
+    [31] => Jaguar
+    [32] => Jeep
+    [33] => Jenson
+    [34] => Kia
+    [35] => Lada
+    [36] => Lancia
+    [37] => Land Rover
+    [38] => Lexus
+    [39] => Man
+    [40] => Mazda
+    [41] => Mercedes
+    [42] => Mercedes-Benz
+    [43] => Mercury
+    [44] => MG
+    [45] => Mini
+    [46] => Mitsubishi
+    [47] => Morgan
+    [48] => Morris
+    [49] => Nissan
+    [50] => Oldsmobile
+    [51] => Opel
+    [52] => Peugeot
+    [53] => Plymouth
+    [54] => Pontiac
+    [55] => Porsche
+    [56] => Ram Truck
+    [57] => Renault
+    [58] => Riley
+    [59] => Rover
+    [60] => Saab
+    [61] => Scion
+    [62] => Seat
+    [63] => Skoda
+    [64] => Ssang Yong
+    [65] => Subaru
+    [66] => Suzuki
+    [67] => Tesla
+    [68] => Toyota
+    [69] => Triumph
+    [70] => Vauxhall
+    [71] => Volkswagen
+    [72] => Volvo
+    [73] => Wolsley
+)
+
+--------------------------------------------------------------------------------
+[2025-05-26 06:29:50] Plugin activation started
+--------------------------------------------------------------------------------
+[2025-05-26 06:29:50] Creating/updating tables
+--------------------------------------------------------------------------------
+[2025-05-26 06:29:50] SQL for vehicle_base:
+Data: CREATE TABLE IF NOT EXISTS wp_vehicle_base (
+        vehicle_id INT NOT NULL,
+        make VARCHAR(100) NOT NULL,
+        model VARCHAR(100) NOT NULL,
+        listing VARCHAR(255) NOT NULL,
+        year_from FLOAT NOT NULL,
+        year_to FLOAT NOT NULL,
+        PRIMARY KEY (vehicle_id)
+    ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+--------------------------------------------------------------------------------
+[2025-05-26 06:29:50] SQL for engine:
+Data: CREATE TABLE IF NOT EXISTS wp_engine (
+        engine_id INT NOT NULL,
+        engine_code VARCHAR(100) NOT NULL,
+        PRIMARY KEY (engine_id)
+    ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+--------------------------------------------------------------------------------
+[2025-05-26 06:29:50] SQL for vehicle_engine:
+Data: CREATE TABLE IF NOT EXISTS wp_vehicle_engine (
+        vehicle_id INT NOT NULL,
+        engine_id INT NOT NULL,
+        PRIMARY KEY (vehicle_id, engine_id),
+        FOREIGN KEY (vehicle_id) REFERENCES wp_vehicle_base(vehicle_id) ON DELETE CASCADE,
+        FOREIGN KEY (engine_id) REFERENCES wp_engine(engine_id) ON DELETE CASCADE
+    ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+--------------------------------------------------------------------------------
+[2025-05-26 06:29:50] Truncating tables before import
+--------------------------------------------------------------------------------
+[2025-05-26 06:29:50] Executing truncate query:
+Data: TRUNCATE TABLE wp_vehicle_engine
+--------------------------------------------------------------------------------
+[2025-05-26 06:29:50] Executing truncate query:
+Data: TRUNCATE TABLE wp_vehicle_base
+--------------------------------------------------------------------------------
+[2025-05-26 06:29:50] Executing truncate query:
+Data: TRUNCATE TABLE wp_engine
+--------------------------------------------------------------------------------
+[2025-05-26 06:29:50] CSV file paths:
+Data: Array
+(
+    [vehicle_base] => C:\Users\harsh\Local Sites\t4plocal\app\public\wp-content\plugins\vehicle-filter/data/vehicle_base.csv
+    [engine] => C:\Users\harsh\Local Sites\t4plocal\app\public\wp-content\plugins\vehicle-filter/data/engine_table.csv
+    [vehicle_engine] => C:\Users\harsh\Local Sites\t4plocal\app\public\wp-content\plugins\vehicle-filter/data/vehicle_engine.csv
+)
+
+--------------------------------------------------------------------------------
+[2025-05-26 06:29:50] Starting vehicle_base import
+--------------------------------------------------------------------------------
+[2025-05-26 06:29:59] Vehicle base import completed. Imported 2740 rows
+--------------------------------------------------------------------------------
+[2025-05-26 06:29:59] Starting engine import
+--------------------------------------------------------------------------------
+[2025-05-26 06:30:03] Engine import completed. Imported 930 rows
+--------------------------------------------------------------------------------
+[2025-05-26 06:30:03] Starting vehicle_engine import
+--------------------------------------------------------------------------------
+[2025-05-26 06:32:52] Plugin activation started
+--------------------------------------------------------------------------------
+[2025-05-26 06:32:52] Creating/updating tables
+--------------------------------------------------------------------------------
+[2025-05-26 06:32:52] SQL for vehicle_base:
+Data: CREATE TABLE IF NOT EXISTS wp_vehicle_base (
+        vehicle_id INT NOT NULL,
+        make VARCHAR(100) NOT NULL,
+        model VARCHAR(100) NOT NULL,
+        listing VARCHAR(255) NOT NULL,
+        year_from FLOAT NOT NULL,
+        year_to FLOAT NOT NULL,
+        PRIMARY KEY (vehicle_id)
+    ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+--------------------------------------------------------------------------------
+[2025-05-26 06:32:52] SQL for engine:
+Data: CREATE TABLE IF NOT EXISTS wp_engine (
+        engine_id INT NOT NULL,
+        engine_code VARCHAR(100) NOT NULL,
+        PRIMARY KEY (engine_id)
+    ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+--------------------------------------------------------------------------------
+[2025-05-26 06:32:52] SQL for vehicle_engine:
+Data: CREATE TABLE IF NOT EXISTS wp_vehicle_engine (
+        vehicle_id INT NOT NULL,
+        engine_id INT NOT NULL,
+        PRIMARY KEY (vehicle_id, engine_id),
+        FOREIGN KEY (vehicle_id) REFERENCES wp_vehicle_base(vehicle_id) ON DELETE CASCADE,
+        FOREIGN KEY (engine_id) REFERENCES wp_engine(engine_id) ON DELETE CASCADE
+    ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+--------------------------------------------------------------------------------
+[2025-05-26 06:32:52] Truncating tables before import
+--------------------------------------------------------------------------------
+[2025-05-26 06:32:52] Executing truncate query:
+Data: TRUNCATE TABLE wp_vehicle_engine
+--------------------------------------------------------------------------------
+[2025-05-26 06:32:52] Executing truncate query:
+Data: TRUNCATE TABLE wp_vehicle_base
+--------------------------------------------------------------------------------
+[2025-05-26 06:32:52] Executing truncate query:
+Data: TRUNCATE TABLE wp_engine
+--------------------------------------------------------------------------------
+[2025-05-26 06:32:52] CSV file paths:
+Data: Array
+(
+    [vehicle_base] => C:\Users\harsh\Local Sites\t4plocal\app\public\wp-content\plugins\vehicle-filter/data/vehicle_base.csv
+    [engine] => C:\Users\harsh\Local Sites\t4plocal\app\public\wp-content\plugins\vehicle-filter/data/engine_table.csv
+    [vehicle_engine] => C:\Users\harsh\Local Sites\t4plocal\app\public\wp-content\plugins\vehicle-filter/data/vehicle_engine.csv
+)
+
+--------------------------------------------------------------------------------
+[2025-05-26 06:32:52] Starting vehicle_base import
+--------------------------------------------------------------------------------
+[2025-05-26 06:33:02] Vehicle base import completed. Imported 2740 rows
+--------------------------------------------------------------------------------
+[2025-05-26 06:33:02] Starting engine import
+--------------------------------------------------------------------------------
+[2025-05-26 06:33:05] Engine import completed. Imported 930 rows
+--------------------------------------------------------------------------------
+[2025-05-26 06:33:05] Starting vehicle_engine import
+--------------------------------------------------------------------------------
+[2025-05-26 06:47:53] Plugin activation started
+--------------------------------------------------------------------------------
+[2025-05-26 06:47:53] Creating/updating tables
+--------------------------------------------------------------------------------
+[2025-05-26 06:47:53] SQL for vehicle_base:
+Data: CREATE TABLE IF NOT EXISTS wp_vehicle_base (
+        vehicle_id INT NOT NULL,
+        make VARCHAR(100) NOT NULL,
+        model VARCHAR(100) NOT NULL,
+        listing VARCHAR(255) NOT NULL,
+        year_from FLOAT NOT NULL,
+        year_to FLOAT NOT NULL,
+        PRIMARY KEY (vehicle_id)
+    ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+--------------------------------------------------------------------------------
+[2025-05-26 06:47:53] SQL for engine:
+Data: CREATE TABLE IF NOT EXISTS wp_engine (
+        engine_id INT NOT NULL,
+        engine_code VARCHAR(100) NOT NULL,
+        PRIMARY KEY (engine_id)
+    ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+--------------------------------------------------------------------------------
+[2025-05-26 06:47:53] SQL for vehicle_engine:
+Data: CREATE TABLE IF NOT EXISTS wp_vehicle_engine (
+        vehicle_id INT NOT NULL,
+        engine_id INT NOT NULL,
+        PRIMARY KEY (vehicle_id, engine_id),
+        FOREIGN KEY (vehicle_id) REFERENCES wp_vehicle_base(vehicle_id) ON DELETE CASCADE,
+        FOREIGN KEY (engine_id) REFERENCES wp_engine(engine_id) ON DELETE CASCADE
+    ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+--------------------------------------------------------------------------------
+[2025-05-26 06:47:53] Truncating tables before import
+--------------------------------------------------------------------------------
+[2025-05-26 06:47:53] Executing truncate query:
+Data: TRUNCATE TABLE wp_vehicle_engine
+--------------------------------------------------------------------------------
+[2025-05-26 06:47:53] Executing truncate query:
+Data: TRUNCATE TABLE wp_vehicle_base
+--------------------------------------------------------------------------------
+[2025-05-26 06:47:53] Executing truncate query:
+Data: TRUNCATE TABLE wp_engine
+--------------------------------------------------------------------------------
+[2025-05-26 06:47:53] CSV file paths:
+Data: Array
+(
+    [vehicle_base] => C:\Users\harsh\Local Sites\t4plocal\app\public\wp-content\plugins\vehicle-filter/data/vehicle_base.csv
+    [engine] => C:\Users\harsh\Local Sites\t4plocal\app\public\wp-content\plugins\vehicle-filter/data/engine_table.csv
+    [vehicle_engine] => C:\Users\harsh\Local Sites\t4plocal\app\public\wp-content\plugins\vehicle-filter/data/vehicle_engine.csv
+)
+
+--------------------------------------------------------------------------------
+[2025-05-26 06:47:53] Starting vehicle_base import
+--------------------------------------------------------------------------------
+[2025-05-26 06:48:02] Vehicle base import completed. Imported 2740 rows
+--------------------------------------------------------------------------------
+[2025-05-26 06:48:02] Starting engine import
+--------------------------------------------------------------------------------
+[2025-05-26 06:48:05] Engine import completed. Imported 930 rows
+--------------------------------------------------------------------------------
+[2025-05-26 06:48:05] Starting vehicle_engine import
+--------------------------------------------------------------------------------
+[2025-05-26 06:58:37] Plugin activation started
+--------------------------------------------------------------------------------
+[2025-05-26 06:58:37] Creating/updating tables
+--------------------------------------------------------------------------------
+[2025-05-26 06:58:37] SQL for vehicle_base:
+Data: CREATE TABLE IF NOT EXISTS wp_vehicle_base (
+        vehicle_id INT NOT NULL,
+        make VARCHAR(100) NOT NULL,
+        model VARCHAR(100) NOT NULL,
+        listing VARCHAR(255) NOT NULL,
+        year_from FLOAT NOT NULL,
+        year_to FLOAT NOT NULL,
+        PRIMARY KEY (vehicle_id)
+    ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+--------------------------------------------------------------------------------
+[2025-05-26 06:58:37] SQL for engine:
+Data: CREATE TABLE IF NOT EXISTS wp_engine (
+        engine_id INT NOT NULL,
+        engine_code VARCHAR(100) NOT NULL,
+        PRIMARY KEY (engine_id)
+    ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+--------------------------------------------------------------------------------
+[2025-05-26 06:58:37] SQL for vehicle_engine:
+Data: CREATE TABLE IF NOT EXISTS wp_vehicle_engine (
+        vehicle_id INT NOT NULL,
+        engine_id INT NOT NULL,
+        PRIMARY KEY (vehicle_id, engine_id),
+        FOREIGN KEY (vehicle_id) REFERENCES wp_vehicle_base(vehicle_id) ON DELETE CASCADE,
+        FOREIGN KEY (engine_id) REFERENCES wp_engine(engine_id) ON DELETE CASCADE
+    ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+--------------------------------------------------------------------------------
+[2025-05-26 06:58:37] Truncating tables before import
+--------------------------------------------------------------------------------
+[2025-05-26 06:58:37] Executing truncate query:
+Data: TRUNCATE TABLE wp_vehicle_engine
+--------------------------------------------------------------------------------
+[2025-05-26 06:58:37] Executing truncate query:
+Data: TRUNCATE TABLE wp_vehicle_base
+--------------------------------------------------------------------------------
+[2025-05-26 06:58:37] Executing truncate query:
+Data: TRUNCATE TABLE wp_engine
+--------------------------------------------------------------------------------
+[2025-05-26 06:58:37] CSV file paths:
+Data: Array
+(
+    [vehicle_base] => C:\Users\harsh\Local Sites\t4plocal\app\public\wp-content\plugins\vehicle-filter/data/vehicle_base.csv
+    [engine] => C:\Users\harsh\Local Sites\t4plocal\app\public\wp-content\plugins\vehicle-filter/data/engine_table.csv
+    [vehicle_engine] => C:\Users\harsh\Local Sites\t4plocal\app\public\wp-content\plugins\vehicle-filter/data/vehicle_engine.csv
+)
+
+--------------------------------------------------------------------------------
+[2025-05-26 06:58:37] Starting vehicle_base import
+--------------------------------------------------------------------------------
+[2025-05-26 06:58:46] Vehicle base import completed. Imported 2740 rows
+--------------------------------------------------------------------------------
+[2025-05-26 06:58:46] Starting engine import
+--------------------------------------------------------------------------------
+[2025-05-26 06:58:49] Engine import completed. Imported 930 rows
+--------------------------------------------------------------------------------
+[2025-05-26 06:58:49] Starting vehicle_engine import
+--------------------------------------------------------------------------------
+[2025-05-26 07:11:05] Plugin activation started
+--------------------------------------------------------------------------------
+[2025-05-26 07:11:05] Creating/updating tables
+--------------------------------------------------------------------------------
+[2025-05-26 07:11:05] SQL for vehicle_base:
+Data: CREATE TABLE IF NOT EXISTS wp_vehicle_base (
+        vehicle_id INT NOT NULL,
+        make VARCHAR(100) NOT NULL,
+        model VARCHAR(100) NOT NULL,
+        listing VARCHAR(255) NOT NULL,
+        year_from FLOAT NOT NULL,
+        year_to FLOAT NOT NULL,
+        PRIMARY KEY (vehicle_id)
+    ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+--------------------------------------------------------------------------------
+[2025-05-26 07:11:05] SQL for engine:
+Data: CREATE TABLE IF NOT EXISTS wp_engine (
+        engine_id INT NOT NULL,
+        engine_code VARCHAR(100) NOT NULL,
+        PRIMARY KEY (engine_id)
+    ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+--------------------------------------------------------------------------------
+[2025-05-26 07:11:05] SQL for vehicle_engine:
+Data: CREATE TABLE IF NOT EXISTS wp_vehicle_engine (
+        vehicle_id INT NOT NULL,
+        engine_id INT NOT NULL,
+        PRIMARY KEY (vehicle_id, engine_id),
+        FOREIGN KEY (vehicle_id) REFERENCES wp_vehicle_base(vehicle_id) ON DELETE CASCADE,
+        FOREIGN KEY (engine_id) REFERENCES wp_engine(engine_id) ON DELETE CASCADE
+    ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+--------------------------------------------------------------------------------
+[2025-05-26 07:11:05] Truncating tables before import
+--------------------------------------------------------------------------------
+[2025-05-26 07:11:05] Executing truncate query:
+Data: TRUNCATE TABLE wp_vehicle_engine
+--------------------------------------------------------------------------------
+[2025-05-26 07:11:05] Executing truncate query:
+Data: TRUNCATE TABLE wp_vehicle_base
+--------------------------------------------------------------------------------
+[2025-05-26 07:11:05] Executing truncate query:
+Data: TRUNCATE TABLE wp_engine
+--------------------------------------------------------------------------------
+[2025-05-26 07:11:05] CSV file paths:
+Data: Array
+(
+    [vehicle_base] => C:\Users\harsh\Local Sites\t4plocal\app\public\wp-content\plugins\vehicle-filter/data/vehicle_base.csv
+    [engine] => C:\Users\harsh\Local Sites\t4plocal\app\public\wp-content\plugins\vehicle-filter/data/engine_table.csv
+    [vehicle_engine] => C:\Users\harsh\Local Sites\t4plocal\app\public\wp-content\plugins\vehicle-filter/data/vehicle_engine.csv
+)
+
+--------------------------------------------------------------------------------
+[2025-05-26 07:11:05] Starting vehicle_base import
+--------------------------------------------------------------------------------
+[2025-05-26 07:11:11] Vehicle base import completed. Imported 2740 rows
+--------------------------------------------------------------------------------
+[2025-05-26 07:11:11] Starting engine import
+--------------------------------------------------------------------------------
+[2025-05-26 07:11:13] Engine import completed. Imported 930 rows
+--------------------------------------------------------------------------------
+[2025-05-26 07:11:13] Starting vehicle_engine import
+--------------------------------------------------------------------------------
+[2025-05-26 07:18:41] Plugin activation started
+--------------------------------------------------------------------------------
+[2025-05-26 07:18:41] Creating/updating tables
+--------------------------------------------------------------------------------
+[2025-05-26 07:18:41] SQL for vehicle_base:
+Data: CREATE TABLE IF NOT EXISTS wp_vehicle_base (
+        vehicle_id INT NOT NULL,
+        make VARCHAR(100) NOT NULL,
+        model VARCHAR(100) NOT NULL,
+        listing VARCHAR(255) NOT NULL,
+        year_from FLOAT NOT NULL,
+        year_to FLOAT NOT NULL,
+        PRIMARY KEY (vehicle_id)
+    ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+--------------------------------------------------------------------------------
+[2025-05-26 07:18:41] SQL for engine:
+Data: CREATE TABLE IF NOT EXISTS wp_engine (
+        engine_id INT NOT NULL,
+        engine_code VARCHAR(100) NOT NULL,
+        PRIMARY KEY (engine_id)
+    ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+--------------------------------------------------------------------------------
+[2025-05-26 07:18:41] SQL for vehicle_engine:
+Data: CREATE TABLE IF NOT EXISTS wp_vehicle_engine (
+        vehicle_id INT NOT NULL,
+        engine_id INT NOT NULL,
+        PRIMARY KEY (vehicle_id, engine_id),
+        FOREIGN KEY (vehicle_id) REFERENCES wp_vehicle_base(vehicle_id) ON DELETE CASCADE,
+        FOREIGN KEY (engine_id) REFERENCES wp_engine(engine_id) ON DELETE CASCADE
+    ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+--------------------------------------------------------------------------------
+[2025-05-26 07:18:41] Truncating tables before import
+--------------------------------------------------------------------------------
+[2025-05-26 07:18:41] Executing truncate query:
+Data: TRUNCATE TABLE wp_vehicle_engine
+--------------------------------------------------------------------------------
+[2025-05-26 07:18:41] Executing truncate query:
+Data: TRUNCATE TABLE wp_vehicle_base
+--------------------------------------------------------------------------------
+[2025-05-26 07:18:41] Executing truncate query:
+Data: TRUNCATE TABLE wp_engine
+--------------------------------------------------------------------------------
+[2025-05-26 07:18:41] CSV file paths:
+Data: Array
+(
+    [vehicle_base] => C:\Users\harsh\Local Sites\t4plocal\app\public\wp-content\plugins\vehicle-filter/data/vehicle_base.csv
+    [engine] => C:\Users\harsh\Local Sites\t4plocal\app\public\wp-content\plugins\vehicle-filter/data/engine_table.csv
+    [vehicle_engine] => C:\Users\harsh\Local Sites\t4plocal\app\public\wp-content\plugins\vehicle-filter/data/vehicle_engine.csv
+)
+
+--------------------------------------------------------------------------------
+[2025-05-26 07:18:41] Starting vehicle_base import
+--------------------------------------------------------------------------------
+[2025-05-26 07:18:50] Vehicle base import completed. Imported 2740 rows
+--------------------------------------------------------------------------------
+[2025-05-26 07:18:50] Starting engine import
+--------------------------------------------------------------------------------
+[2025-05-26 07:18:53] Engine import completed. Imported 930 rows
+--------------------------------------------------------------------------------
+[2025-05-26 07:18:53] Starting vehicle_engine import
+--------------------------------------------------------------------------------

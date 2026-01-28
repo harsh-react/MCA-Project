@@ -1,0 +1,59 @@
+/* Vehicle Filter Modern Styles */
+#vehicle-filter-form, .find_car_parts_form {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 16px rgba(0,0,0,0.07);
+  padding: 2em 2em 1.5em 2em;
+  max-width: 420px;
+  margin: 2em auto 2em auto;
+}
+#vehicle-filter-form label, .find_car_parts_form label {
+  font-weight: 600;
+  color: #222;
+  margin-bottom: 0.5em;
+  display: block;
+}
+#vehicle-filter-form select, .find_car_parts_form select {
+  width: 100%;
+  padding: 0.6em 1em;
+  border: 1px solid #d1d5db;
+  border-radius: 6px;
+  background: #f9fafb;
+  margin-bottom: 1.2em;
+  font-size: 1em;
+  transition: border 0.2s;
+}
+#vehicle-filter-form select:focus, .find_car_parts_form select:focus {
+  border-color: #2563eb;
+  outline: none;
+}
+#vehicle-filter-form .button, .find_car_parts_form .button {
+  width: 100%;
+  background: #2563eb;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  padding: 0.8em 0;
+  font-size: 1.1em;
+  font-weight: 700;
+  cursor: pointer;
+  transition: background 0.2s;
+  margin-top: 0.5em;
+}
+#vehicle-filter-form .button:hover, .find_car_parts_form .button:hover {
+  background: #1e40af;
+}
+#vehicle-summary {
+  max-width: 420px;
+  margin: 2em auto 0 auto;
+}
+@media (max-width: 600px) {
+  #vehicle-filter-form, .find_car_parts_form, #vehicle-summary {
+    padding: 1em;
+    max-width: 98vw;
+  }
+}
+/* Hide default WooCommerce shop form margin */
+.woocommerce .find_car_parts_form {
+  margin-bottom: 0;
+} 
